@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "published": "2026-10-07T16:01:43Z",
+  "notes": [
+    "Eigene Buttons, Schalter und Auswahlfelder; alle Abfragen als Fenster statt Browser-Popups",
+    "Neue Fenster: Track-Details, Geräte-Details, Einstellungen, Hilfe",
+    "Demo-Modus jederzeit über „Demo beenden“ verlassen",
+    "Loop-Anzeige mit Länge (CDJ-3000) und für ältere Player",
+    "Automatische Updates"
+  ],
+  "windows": {
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-0.2.0.exe",
+    "sha256": "27472d2af30f3f16831d9cd99fdb5d27548e95ad3fd74709ce0a5269c0ce57f5",
+    "size": 7522816
+  }
+}
