@@ -1,16 +1,15 @@
 {
-  "version": "0.2.0",
-  "published": "2026-10-07T16:01:43Z",
+  "version": "0.2.1",
+  "published": "2026-10-07T17:48:31Z",
   "notes": [
-    "Eigene Buttons, Schalter und Auswahlfelder; alle Abfragen als Fenster statt Browser-Popups",
-    "Neue Fenster: Track-Details, Geräte-Details, Einstellungen, Hilfe",
-    "Demo-Modus jederzeit über „Demo beenden“ verlassen",
-    "Loop-Anzeige mit Länge (CDJ-3000) und für ältere Player",
-    "Automatische Updates"
+    "Original-CDJ-2000 (vor Nexus): Pause wird jetzt korrekt erkannt",
+    "Original-CDJ-2000: geschätzte Position, Restzeit und Takt (über gezählte Beats, als „geschätzt“ markiert)",
+    "Original-CDJ-2000: Live-Pitch und BPM beim Spielen aus den Beat-Signalen",
+    "Behoben: Metadaten wurden beim ersten Statuspaket manchmal verworfen"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-0.2.0.exe",
-    "sha256": "27472d2af30f3f16831d9cd99fdb5d27548e95ad3fd74709ce0a5269c0ce57f5",
-    "size": 7522816
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-0.2.1.exe",
+    "sha256": "18118e0920ac785a645fbd6495368a9d4d206c4bc86c728c739dbf1f86d22896",
+    "size": 7527936
   }
 }
