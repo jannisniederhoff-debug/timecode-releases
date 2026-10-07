@@ -1,15 +1,16 @@
 {
-  "version": "0.2.1",
-  "published": "2026-10-07T17:48:31Z",
+  "version": "0.3.0",
+  "published": "2026-10-07T18:41:39Z",
   "notes": [
-    "Original-CDJ-2000 (vor Nexus): Pause wird jetzt korrekt erkannt",
-    "Original-CDJ-2000: geschätzte Position, Restzeit und Takt (über gezählte Beats, als „geschätzt“ markiert)",
-    "Original-CDJ-2000: Live-Pitch und BPM beim Spielen aus den Beat-Signalen",
-    "Behoben: Metadaten wurden beim ersten Statuspaket manchmal verworfen"
+    "Neu: Mitschnitt – DJ-Set als MP3 (320 kbit/s) und/oder WAV aufnehmen, mit automatischer Trackliste und CUE-Datei",
+    "Diagnose-Aufnahme (Netzwerkdaten) startet nicht mehr automatisch",
+    "Original-CDJ-2000: Spielt/Pause wird wieder korrekt angezeigt – auch wenn Timecode bei laufenden Playern gestartet wird",
+    "Original-CDJ-2000: geschätzte Position ab Laden eines Tracks oder CUE, Pitch vom Pitch-Fader",
+    "Updates starten im selben Fenster neu; ein zweiter Start öffnet nur die laufende Oberfläche"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-0.2.1.exe",
-    "sha256": "18118e0920ac785a645fbd6495368a9d4d206c4bc86c728c739dbf1f86d22896",
-    "size": 7527936
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-0.3.0.exe",
+    "sha256": "f57b62e8a65b1e5f544f0f0c320ceabee1b1bb1ad3041657b865aa401298b2f7",
+    "size": 7785984
   }
 }
