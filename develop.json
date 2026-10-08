@@ -1,12 +1,15 @@
 {
-  "version": "0.3.2",
-  "published": "2026-10-08T05:23:01Z",
+  "version": "0.4.0",
+  "published": "2026-10-08T08:25:34Z",
   "notes": [
-    "Einstellungen: Update-Zugangsschlüssel eintragen – für private Updates"
+    "Neu: Software-Quellen – Decks aus VirtualDJ, Traktor und rekordbox (über rkbx_link) erscheinen neben den CDJs",
+    "Einrichtung pro Programm unter Einstellungen → Software-Quellen (mit Schritt-für-Schritt-Anleitung)",
+    "Mitschnitt-Trackliste nennt jetzt auch Software-Decks",
+    "Mehr DJ-Controller und laufende DJ-Programme werden erkannt"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-0.3.2.exe",
-    "sha256": "fcc8c453d779d9957877df81f6ba7b2a105658c62e5084537454765af3bfaa23",
-    "size": 7815680
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-0.4.0.exe",
+    "sha256": "3693bf3acd39f2c1889dd775c345f42be20be18b087f78d5fe41224bb9d674cc",
+    "size": 8137728
   }
 }
