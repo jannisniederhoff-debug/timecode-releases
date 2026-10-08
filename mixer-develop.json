@@ -1,16 +1,16 @@
 {
-  "version": "0.2.0",
-  "published": "2026-10-08T15:59:31Z",
+  "version": "0.3.0",
+  "published": "2026-10-08T17:23:17Z",
   "notes": [
-    "Neu (experimentell): Netzwerk-Audio über AES67 – z. B. mit dem Neutrik NA-2I2O-DLINE, ohne Dante-Software für den Ton",
-    "Geräte → Netzwerk-Audio: Netzwerk-Takt (PTP), gefundene Streams, Dante-Geräte mit Blinken, AES67 ein/aus, Neustart, Latenz",
-    "Netzwerk-Audio-Diagnose (nur Steuerdaten, kein Ton) zum Schicken an den Entwickler",
-    "Neue Hilfsdateien im Ordner: „Netzwerk-Audio suchen (Diagnose).bat“ und „Netzwerk-Audio AES67 einschalten (experimentell).bat“",
-    "Firewall-Datei gibt die Netzwerk-Audio-Ports frei – nach dem Update einmal als Administrator ausführen"
+    "Neu: Jeder Lautsprecher hat in seiner Zone einen eigenen Pegel und einen Max-Wert (Obergrenze) – „am Max“ wird angezeigt",
+    "Neu: Max-Wert pro Zone – der Zonen-Fader (auch am Handy) kann nicht darüber hinaus",
+    "Frischer Start ist leer: keine Beispiel-Zonen mehr, geführtes Anlegen – „Am Rechner“ oder „Netzwerk-Gerät (AES67)“",
+    "Lautsprecher und neue Zone in einem Schritt anlegen",
+    "Deine bisherigen Einstellungen bleiben erhalten"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Digitalmixer-0.2.0.exe",
-    "sha256": "9077242b6b731bd3b840bdc317f07f0552c0811ac9b3f8e3f6be3f45c1628418",
-    "size": 8752640
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Digitalmixer-0.3.0.exe",
+    "sha256": "730234bd71c288333c6cf82cfd074526ee995e7b5c739bd2d8c8bf38b325f4e7",
+    "size": 8805376
   }
 }
