@@ -1,18 +1,15 @@
 {
-  "version": "0.5.1",
-  "published": "2026-10-08T10:44:30Z",
+  "version": "0.6.0",
+  "published": "2026-10-08T11:41:51Z",
   "notes": [
-    "Neu: Sender-Modus – DJ-Laptops mit VirtualDJ, Traktor oder rekordbox schicken ihre Decks an die Zentrale",
-    "Sender-Download direkt von der Zentrale: im Browser http://<IP>:8080/sender öffnen oder QR-Code scannen",
-    "Neu: Denon-Player (StagelinQ) werden automatisch erkannt und wie CDJs angezeigt",
-    "Neu: Ableton-Link-Session und OS2L-Beat (VirtualDJ) als Takt- und BPM-Quelle",
-    "Läuft rekordbox auf demselben PC, versucht Timecode die CDJ-Ports alle 10 Sekunden erneut",
-    "Firewall-Datei gibt die neuen Ports frei – nach dem Update einmal als Administrator ausführen",
-    "Korrigiert: rekordbox-Deck zeigte „noch NaN Takte“"
+    "Neu: Loops werden bei allen Quellen angezeigt – CDJs, VirtualDJ, Traktor und Denon (mit Länge, wo das Gerät sie sendet)",
+    "Neu: Effekte (FX) von VirtualDJ und Traktor mit Namen, z. B. „FX: Echo, Filter“ – CDJs/DJM senden keine Effekt-Infos",
+    "Neu: Info-Punkt an jeder Player-Nummer – zeigt in Grün/Gelb/Rot, was dieses Gerät wirklich liefert",
+    "Traktor-Nutzer: Traktor-Verbindung unter Software-Quellen einmal neu installieren, damit Loops und Effekte ankommen"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-0.5.1.exe",
-    "sha256": "7d8bfd7452a6a5f3eb0179a090cfc7ab3926379111023d6a9325eb9dc0fd3008",
-    "size": 11071488
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-0.6.0.exe",
+    "sha256": "705063c2506944410d1fdf0d54f40222b8c4438fd9b30d005e0dc677e2678454",
+    "size": 11155456
   }
 }
