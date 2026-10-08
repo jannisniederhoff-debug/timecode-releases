@@ -1,14 +1,17 @@
 {
-  "version": "0.1.0",
-  "published": "2026-10-08T18:11:56Z",
+  "version": "0.1.1",
+  "published": "2026-10-08T20:46:35Z",
   "notes": [
-    "Erste Version der Event Suite: eine Start-Datei, Übersicht mit allen Programmen",
-    "Startet Timecode und Digitalmixer im Hintergrund, startet sie bei Absturz oder Update neu",
-    "QR-Code fürs Handy, Update-Stand aller Programme auf einen Blick"
+    "Räumt alte Programmkopien (*.old.exe) beim Start auf"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-0.1.0.exe",
-    "sha256": "6071a5ef4c2c2b2b414d05438c3d220053c1d1d65529e4858ab3b37dd9d64d79",
-    "size": 7541248
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-0.1.1.exe",
+    "sha256": "35fdb89b3bf0097e678f0bca3c532472aad40f51a9e2d3fcc51521af43cde6d4",
+    "size": 7633920
+  },
+  "package": {
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows.zip",
+    "sha256": "20c634c23c0f06014847640e5dd13db8deecc61a9a23bf80fd37c766684a7d29",
+    "size": 11338110
   }
 }

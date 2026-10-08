@@ -1,16 +1,18 @@
 {
-  "version": "0.9.0",
-  "published": "2026-10-08T18:28:45Z",
+  "version": "0.10.0",
+  "published": "2026-10-08T20:46:34Z",
   "notes": [
-    "Neu: DJ-Software ohne Zusatzprogramme – Software-Quellen zeigen pro Programm die Schritte mit Häkchen",
-    "rekordbox: Titel, Cover, Wellenform aus der eigenen rekordbox-Bibliothek + Takt/BPM über den LINK-Knopf",
-    "VirtualDJ: aktueller Titel aus dem Verlauf + Beat/BPM über das eingebaute OS2L (Einstellung auf Wunsch automatisch)",
-    "Traktor: Titel über „Broadcasting“, Takt/BPM über Link – Schritt-für-Schritt-Anleitung im Programm",
-    "rkbx_link nur noch optional unter „Erweitert“"
+    "Event Suite: Timecode richtet sich auf Wunsch selbst als Event Suite ein (Übersicht + Digitalmixer kommen dazu, Ordner wird aufgeräumt)",
+    "Deine Einstellungen und Aufnahmen bleiben erhalten"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-0.9.0.exe",
-    "sha256": "97b65d49c093129da8be1b6d7ccc186270573d3f2282ab89eaa233aa8c06b322",
-    "size": 11254784
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-0.10.0.exe",
+    "sha256": "4e64fcd040d69eba23cac7a926e291dda257d72237df95d5dd75bb2299a64840",
+    "size": 11426816
+  },
+  "package": {
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows.zip",
+    "sha256": "20c634c23c0f06014847640e5dd13db8deecc61a9a23bf80fd37c766684a7d29",
+    "size": 11338110
   }
 }

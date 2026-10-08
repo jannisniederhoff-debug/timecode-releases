@@ -1,17 +1,18 @@
 {
-  "version": "0.9.0",
-  "published": "2026-10-08T18:28:47Z",
+  "version": "0.10.0",
+  "published": "2026-10-08T20:46:35Z",
   "notes": [
-    "Neu: DJ-Software ohne Zusatzprogramme – Software-Quellen zeigen pro Programm die Schritte mit Häkchen",
-    "rekordbox: Titel, Cover, Wellenform aus der eigenen rekordbox-Bibliothek + Takt/BPM über den LINK-Knopf",
-    "VirtualDJ: aktueller Titel aus dem Verlauf + Beat/BPM über das eingebaute OS2L (Einstellung auf Wunsch automatisch)",
-    "Traktor: Titel über „Broadcasting“, Takt/BPM über Link – Schritt-für-Schritt-Anleitung im Programm",
-    "rkbx_link nur noch optional unter „Erweitert“",
-    "Admin: Traktor-Erweiterung (volle Deck-Daten) per Knopfdruck installieren"
+    "Event Suite: Timecode richtet sich auf Wunsch selbst als Event Suite ein (Übersicht + Digitalmixer kommen dazu, Ordner wird aufgeräumt)",
+    "Deine Einstellungen und Aufnahmen bleiben erhalten"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-Admin-0.9.0.exe",
-    "sha256": "e2541f67d1c41d212b9a066c1ec7bd666f8d5f89f07edf933fcc53aedf4ec022",
-    "size": 11336192
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-Admin-0.10.0.exe",
+    "sha256": "577c31e40510d3c8774e35f0d0817f06bbaed6ee3d7d9f6db00e44d5841ece38",
+    "size": 11505152
+  },
+  "package": {
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Admin-Windows.zip",
+    "sha256": "94758065233ab122c558543c6b69a48ac1060df0781e00ae9f9ac5b6cb71db2e",
+    "size": 11364022
   }
 }
