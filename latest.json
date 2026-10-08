@@ -1,15 +1,12 @@
 {
-  "version": "0.3.1",
-  "published": "2026-10-08T05:05:25Z",
+  "version": "0.3.2",
+  "published": "2026-10-08T05:23:01Z",
   "notes": [
-    "Design überarbeitet: viele kleine Darstellungsfehler behoben, Handy-Ansicht verbessert",
-    "Einstellungen: Update-Kanal wählbar – Release (stabil) oder Develop (Testversionen)",
-    "Vorbereitung für private Updates mit Zugangsschlüssel",
-    "Original-CDJ-2000 und Mixer werden in der Geräteliste korrekt bezeichnet"
+    "Einstellungen: Update-Zugangsschlüssel eintragen – für private Updates"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-0.3.1.exe",
-    "sha256": "ee3a229f9ae3e5c74029349d7de5c3f0a43e94489dba9641a7e3b9f2bb20d851",
-    "size": 7806976
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-0.3.2.exe",
+    "sha256": "fcc8c453d779d9957877df81f6ba7b2a105658c62e5084537454765af3bfaa23",
+    "size": 7815680
   }
 }
