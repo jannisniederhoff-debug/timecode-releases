@@ -1,15 +1,14 @@
 {
-  "version": "0.6.0",
-  "published": "2026-10-08T11:41:51Z",
+  "version": "0.7.0",
+  "published": "2026-10-08T14:40:12Z",
   "notes": [
-    "Neu: Loops werden bei allen Quellen angezeigt – CDJs, VirtualDJ, Traktor und Denon (mit Länge, wo das Gerät sie sendet)",
-    "Neu: Effekte (FX) von VirtualDJ und Traktor mit Namen, z. B. „FX: Echo, Filter“ – CDJs/DJM senden keine Effekt-Infos",
-    "Neu: Info-Punkt an jeder Player-Nummer – zeigt in Grün/Gelb/Rot, was dieses Gerät wirklich liefert",
-    "Traktor-Nutzer: Traktor-Verbindung unter Software-Quellen einmal neu installieren, damit Loops und Effekte ankommen"
+    "Ton-Mitschnitt ist umgezogen: Aufnahmen macht jetzt der neue Digitalmixer (mit Trackliste aus Timecode)",
+    "Diagnose-Aufnahme (nur Netzwerkdaten, kein Ton) liegt jetzt unter Einstellungen → „Für die Fehlersuche“",
+    "Läuft der Digitalmixer, erscheint oben ein Link dorthin"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-0.6.0.exe",
-    "sha256": "705063c2506944410d1fdf0d54f40222b8c4438fd9b30d005e0dc677e2678454",
-    "size": 11155456
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-0.7.0.exe",
+    "sha256": "3a3c431158866ad7c5b842e4970dd7fefb5620ab4c16a05cee9bc870a027a40b",
+    "size": 10932224
   }
 }
