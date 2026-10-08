@@ -1,17 +1,16 @@
 {
-  "version": "0.1.0",
-  "published": "2026-10-08T14:40:14Z",
+  "version": "0.2.0",
+  "published": "2026-10-08T15:59:31Z",
   "notes": [
-    "Erste Version des Digitalmixers: Eingänge, Zonen und Lautsprecher, Routing, Szenen",
-    "Stereo-Paare als zwei verknüpfte Fader (Alt bzw. „Einzeln“ regelt eine Seite allein)",
-    "Pro Kanal: Höhen/Mitten/Tiefen, DJ-Filter, zwei Effekte (Echo, Ping-Pong, Hall, Flanger …), Gate/Kompressor",
-    "Echo im Takt: BPM automatisch aus Timecode oder per Tap",
-    "Mehrspur-Aufnahme mit Trackliste, Lautsprecher-Test, „Alles stumm“",
-    "Erste Windows-Version – bitte zuerst mit „Demo starten.bat“ und dem Lautsprecher-Test unter „Geräte“ ausprobieren"
+    "Neu (experimentell): Netzwerk-Audio über AES67 – z. B. mit dem Neutrik NA-2I2O-DLINE, ohne Dante-Software für den Ton",
+    "Geräte → Netzwerk-Audio: Netzwerk-Takt (PTP), gefundene Streams, Dante-Geräte mit Blinken, AES67 ein/aus, Neustart, Latenz",
+    "Netzwerk-Audio-Diagnose (nur Steuerdaten, kein Ton) zum Schicken an den Entwickler",
+    "Neue Hilfsdateien im Ordner: „Netzwerk-Audio suchen (Diagnose).bat“ und „Netzwerk-Audio AES67 einschalten (experimentell).bat“",
+    "Firewall-Datei gibt die Netzwerk-Audio-Ports frei – nach dem Update einmal als Administrator ausführen"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Digitalmixer-0.1.0.exe",
-    "sha256": "8a26b090827383337add58267c193d66acf4964fbdf29ab02ef72cdeaeba5802",
-    "size": 7962112
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Digitalmixer-0.2.0.exe",
+    "sha256": "9077242b6b731bd3b840bdc317f07f0552c0811ac9b3f8e3f6be3f45c1628418",
+    "size": 8752640
   }
 }
