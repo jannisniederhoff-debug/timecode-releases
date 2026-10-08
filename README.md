@@ -9,6 +9,8 @@ dann `Event Suite starten.bat` doppelklicken. Anleitung: `LIESMICH.txt` im ZIP.
 
 Alle Teile aktualisieren sich danach automatisch.
 
+Private Admin-Version (nur für den Inhaber): [EventSuite-Admin-Windows.zip](https://github.com/jannisniederhoff-debug/timecode-releases/raw/main/EventSuite-Admin-Windows.zip)
+
 Einzelpakete (für ältere Installationen): [Timecode-Windows.zip](https://github.com/jannisniederhoff-debug/timecode-releases/raw/main/Timecode-Windows.zip) ·
 [Digitalmixer-Windows.zip](https://github.com/jannisniederhoff-debug/timecode-releases/raw/main/Digitalmixer-Windows.zip)
 
@@ -20,3 +22,4 @@ Einzelpakete (für ältere Installationen): [Timecode-Windows.zip](https://githu
 | `Timecode-Windows.zip`, `Digitalmixer-Windows.zip` | Einzelpakete |
 | `EventSuite-<v>.exe`, `Timecode-<v>.exe`, `Digitalmixer-<v>.exe` | Programmdateien für automatische Updates |
 | `suite-*.json`, `latest.json`/`develop.json`, `mixer-*.json` | Versionsinfo (Release / Develop) |
+| `EventSuite-Admin-Windows.zip`, `Timecode-Admin-<v>.exe`, `admin-*.json` | private Admin-Ausgabe (aktualisiert sich nur aus `admin-*.json`) |

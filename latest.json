@@ -1,13 +1,16 @@
 {
-  "version": "0.8.0",
-  "published": "2026-10-08T18:11:50Z",
+  "version": "0.9.0",
+  "published": "2026-10-08T18:28:45Z",
   "notes": [
-    "Neu: Teil der Event Suite – oben links Haus-Symbol (zur Übersicht) und Umschalter zu den anderen Programmen",
-    "Sender läuft auf DJ-Laptops nur noch als Konsole im Hintergrund und warnt, wenn er auf dem Zentral-PC gestartet wird"
+    "Neu: DJ-Software ohne Zusatzprogramme – Software-Quellen zeigen pro Programm die Schritte mit Häkchen",
+    "rekordbox: Titel, Cover, Wellenform aus der eigenen rekordbox-Bibliothek + Takt/BPM über den LINK-Knopf",
+    "VirtualDJ: aktueller Titel aus dem Verlauf + Beat/BPM über das eingebaute OS2L (Einstellung auf Wunsch automatisch)",
+    "Traktor: Titel über „Broadcasting“, Takt/BPM über Link – Schritt-für-Schritt-Anleitung im Programm",
+    "rkbx_link nur noch optional unter „Erweitert“"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-0.8.0.exe",
-    "sha256": "f65e6b1f40257e1f4e0c725ba2aeb74ee235bed4d4592f5f0232e7feab8aad67",
-    "size": 10981376
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-0.9.0.exe",
+    "sha256": "97b65d49c093129da8be1b6d7ccc186270573d3f2282ab89eaa233aa8c06b322",
+    "size": 11254784
   }
 }

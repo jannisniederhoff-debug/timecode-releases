@@ -1,16 +1,17 @@
 {
   "version": "0.9.0",
-  "published": "2026-10-08T18:28:45Z",
+  "published": "2026-10-08T18:28:47Z",
   "notes": [
     "Neu: DJ-Software ohne Zusatzprogramme – Software-Quellen zeigen pro Programm die Schritte mit Häkchen",
     "rekordbox: Titel, Cover, Wellenform aus der eigenen rekordbox-Bibliothek + Takt/BPM über den LINK-Knopf",
     "VirtualDJ: aktueller Titel aus dem Verlauf + Beat/BPM über das eingebaute OS2L (Einstellung auf Wunsch automatisch)",
     "Traktor: Titel über „Broadcasting“, Takt/BPM über Link – Schritt-für-Schritt-Anleitung im Programm",
-    "rkbx_link nur noch optional unter „Erweitert“"
+    "rkbx_link nur noch optional unter „Erweitert“",
+    "Admin: Traktor-Erweiterung (volle Deck-Daten) per Knopfdruck installieren"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-0.9.0.exe",
-    "sha256": "97b65d49c093129da8be1b6d7ccc186270573d3f2282ab89eaa233aa8c06b322",
-    "size": 11254784
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-Admin-0.9.0.exe",
+    "sha256": "e2541f67d1c41d212b9a066c1ec7bd666f8d5f89f07edf933fcc53aedf4ec022",
+    "size": 11336192
   }
 }
