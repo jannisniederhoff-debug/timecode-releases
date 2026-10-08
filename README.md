@@ -1,20 +1,22 @@
-# Timecode & Digitalmixer – Downloads
+# Event Suite – Downloads
 
 ## Herunterladen (Windows)
 
-- **[Timecode-Windows.zip](https://github.com/jannisniederhoff-debug/timecode-releases/raw/main/Timecode-Windows.zip)** –
-  Pro DJ Link Monitor für Pioneer CDJ/XDJ/DJM, DJ-Software und Denon. Entpacken, `Timecode starten.bat` doppelklicken.
-- **[Digitalmixer-Windows.zip](https://github.com/jannisniederhoff-debug/timecode-releases/raw/main/Digitalmixer-Windows.zip)** –
-  Misch-Software mit Zonen, Lautsprechern, Effekten und Mehrspur-Aufnahme. Entpacken, `Digitalmixer starten.bat` doppelklicken.
+**[EventSuite-Windows.zip](https://github.com/jannisniederhoff-debug/timecode-releases/raw/main/EventSuite-Windows.zip)** –
+alles in einem: Event-Suite-Übersicht, **Timecode** (DJ-Daten live) und **Digitalmixer** (Ton, Zonen, Lautsprecher).
+Entpacken, einmal `Firewall freigeben (Rechtsklick - als Administrator).bat` als Administrator ausführen,
+dann `Event Suite starten.bat` doppelklicken. Anleitung: `LIESMICH.txt` im ZIP.
 
-Anleitung jeweils in `LIESMICH.txt` im ZIP. Bereits installierte Versionen aktualisieren sich automatisch
-(„Update verfügbar“ oben rechts im Programm).
+Alle Teile aktualisieren sich danach automatisch.
+
+Einzelpakete (für ältere Installationen): [Timecode-Windows.zip](https://github.com/jannisniederhoff-debug/timecode-releases/raw/main/Timecode-Windows.zip) ·
+[Digitalmixer-Windows.zip](https://github.com/jannisniederhoff-debug/timecode-releases/raw/main/Digitalmixer-Windows.zip)
 
 ## Inhalt dieses Repos
 
 | Datei | Zweck |
 |---|---|
-| `Timecode-Windows.zip`, `Digitalmixer-Windows.zip` | Komplettpakete zum ersten Einrichten |
-| `Timecode-<version>.exe`, `Digitalmixer-<version>.exe` | Programmdateien für das automatische Update |
-| `latest.json`, `develop.json` | Versionsinfo Timecode (Release / Develop) |
-| `mixer-latest.json`, `mixer-develop.json` | Versionsinfo Digitalmixer (Release / Develop) |
+| `EventSuite-Windows.zip` | Komplettpaket (empfohlen) |
+| `Timecode-Windows.zip`, `Digitalmixer-Windows.zip` | Einzelpakete |
+| `EventSuite-<v>.exe`, `Timecode-<v>.exe`, `Digitalmixer-<v>.exe` | Programmdateien für automatische Updates |
+| `suite-*.json`, `latest.json`/`develop.json`, `mixer-*.json` | Versionsinfo (Release / Develop) |

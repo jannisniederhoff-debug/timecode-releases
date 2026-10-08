@@ -1,14 +1,13 @@
 {
-  "version": "0.7.0",
-  "published": "2026-10-08T14:40:12Z",
+  "version": "0.8.0",
+  "published": "2026-10-08T18:11:50Z",
   "notes": [
-    "Ton-Mitschnitt ist umgezogen: Aufnahmen macht jetzt der neue Digitalmixer (mit Trackliste aus Timecode)",
-    "Diagnose-Aufnahme (nur Netzwerkdaten, kein Ton) liegt jetzt unter Einstellungen → „Für die Fehlersuche“",
-    "Läuft der Digitalmixer, erscheint oben ein Link dorthin"
+    "Neu: Teil der Event Suite – oben links Haus-Symbol (zur Übersicht) und Umschalter zu den anderen Programmen",
+    "Sender läuft auf DJ-Laptops nur noch als Konsole im Hintergrund und warnt, wenn er auf dem Zentral-PC gestartet wird"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-0.7.0.exe",
-    "sha256": "3a3c431158866ad7c5b842e4970dd7fefb5620ab4c16a05cee9bc870a027a40b",
-    "size": 10932224
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-0.8.0.exe",
+    "sha256": "f65e6b1f40257e1f4e0c725ba2aeb74ee235bed4d4592f5f0232e7feab8aad67",
+    "size": 10981376
   }
 }
