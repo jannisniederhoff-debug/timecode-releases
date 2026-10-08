@@ -1,17 +1,18 @@
 {
-  "version": "0.5.0",
-  "published": "2026-10-08T10:40:15Z",
+  "version": "0.5.1",
+  "published": "2026-10-08T10:44:30Z",
   "notes": [
     "Neu: Sender-Modus – DJ-Laptops mit VirtualDJ, Traktor oder rekordbox schicken ihre Decks an die Zentrale",
     "Sender-Download direkt von der Zentrale: im Browser http://<IP>:8080/sender öffnen oder QR-Code scannen",
     "Neu: Denon-Player (StagelinQ) werden automatisch erkannt und wie CDJs angezeigt",
     "Neu: Ableton-Link-Session und OS2L-Beat (VirtualDJ) als Takt- und BPM-Quelle",
     "Läuft rekordbox auf demselben PC, versucht Timecode die CDJ-Ports alle 10 Sekunden erneut",
-    "Firewall-Datei gibt die neuen Ports frei – nach dem Update einmal als Administrator ausführen"
+    "Firewall-Datei gibt die neuen Ports frei – nach dem Update einmal als Administrator ausführen",
+    "Korrigiert: rekordbox-Deck zeigte „noch NaN Takte“"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-0.5.0.exe",
-    "sha256": "d0e69eb07bfa3fee6a9656df8c8491a8dec98fd783d49d727f2300141a72baeb",
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-0.5.1.exe",
+    "sha256": "7d8bfd7452a6a5f3eb0179a090cfc7ab3926379111023d6a9325eb9dc0fd3008",
     "size": 11071488
   }
 }
