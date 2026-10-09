@@ -11,8 +11,8 @@
     "size": 11687936
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Admin-Windows-0.3.0.zip",
-    "sha256": "86b8099867349fa7d5276aa705bceb60a4ccf5c4d274968806548cedade24d6a",
-    "size": 17440450
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Admin-Windows-0.4.0.zip",
+    "sha256": "9a0ca67d1c39e0abe073287886bd64fc2ee442bc565078cd7c1a739fc37b9079",
+    "size": 17869309
   }
 }

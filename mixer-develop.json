@@ -1,24 +1,18 @@
 {
-  "version": "0.6.0",
-  "published": "2026-10-09T11:28:17Z",
+  "version": "0.7.0",
+  "published": "2026-10-09T13:01:18Z",
   "notes": [
-    "Neu: Projekte – beim Start ein unbenanntes Projekt, „Speichern unter“, Öffnen, Duplizieren, Papierkorb",
-    "Bisheriges Mischpult wird automatisch zu „Mein Projekt“ (nichts geht verloren)",
-    "Raumplan: Sub + Top stapeln (Distanzstange), eigene Beschriftungen, Legende, Kabel selbst ziehen und formen",
-    "Raumplan: Kabelbaum mit Kabelbindern, Kabellängen und Packliste",
-    "Raumplan: DJ-Pult mit CDJs, Plattenspielern, DJ-Mixer – verknüpft mit den Geräten, die Timecode erkennt (live)",
-    "Raumplan: Netzwerk (Laptops, Switch, LAN), Schallringe nach echtem Pegel, Testton pro Box",
-    "Einmessen genauer (weit entfernte Boxen wurden manchmal zu früh gemessen)",
-    "Kopfzeile passt sich jeder Breite an; Reiter „Zonen“ heißt jetzt „Lautstärke“"
+    "Neu: Bühnenplan (gemeinsam mit Licht) – Mittellinie, Maße, Spiegeln, Traversen aus Standardteilen",
+    "Boxen an Traversen hängen (geflogen), Bühne im Raumplan sichtbar"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Digitalmixer-0.6.0.exe",
-    "sha256": "467098d8d5ac64a88bc14386a9dd44c1874ad42b35379c965e051065af1afe31",
-    "size": 11962368
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Digitalmixer-0.7.0.exe",
+    "sha256": "60c2ac399d5d7d2a88641890a59c82215bf9ff951a7dd87ba120fa815dd22f6a",
+    "size": 12329984
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.3.0.zip",
-    "sha256": "02ebe13d0703495b08721785f30c4cb37eda0f9bf5e5603e5b32326c4a283336",
-    "size": 17414093
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.4.0.zip",
+    "sha256": "76f20511c9f6e34ca9326dad2d4f2bced5cbbfb01654bdb7dff35d219b40c4c6",
+    "size": 17843241
   }
 }

@@ -1,22 +1,21 @@
 {
-  "version": "0.3.0",
-  "published": "2026-10-09T11:28:18Z",
+  "version": "0.4.0",
+  "published": "2026-10-09T13:01:19Z",
   "notes": [
-    "Neu: Projekte statt Shows – beim Start ein unbenanntes Projekt, Speichern unter, Öffnen, Papierkorb",
-    "Szenen wie bei Daslight: nur Dimmer / Farbe / Position speichern, Abzeichen D F P B FX",
-    "Mehrere Szenen gleichzeitig („Dazu mischen“), auf der Live-Seite „Mischen“",
-    "Prioritäten für Szenen und Chaser (höhere Priorität gewinnt pro Attribut)",
-    "Neue Dimmer-Effekte: Blinken, Funkeln, Pulse – im Takt",
-    "Fixierpunkt: Moving Heads im 3D auf einen Punkt richten, Punkt ziehen, Korrigieren (Kalibrieren)"
+    "Neu: Reiter „Bühne“ – Mittellinie, ± Maße, Spiegeln, Traversen (Teileliste, Gewicht), Lampen anhängen und verteilen",
+    "Neu: Farbmix – Abwechselnd, Symmetrisch, Blöcke, Verlauf (Regenbogen), Zufall; Springen, Fließen, Folge mit Übergängen",
+    "Neu: Übergänge für Chaser (Lauf links→rechts, außen→innen …)",
+    "Neu: Hoch/Runter und Links/Rechts, „Licht koppeln“ (Dark Move: an beim Hochfahren, aus beim Runterfahren)",
+    "Neu: „Läuft gerade“ – laufende Effekte live nachregeln, am PC übernehmen"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Licht-0.3.0.exe",
-    "sha256": "1d40be5bc1f543fb3345d9347b876ba0f06eb9823416f9c622852fb44387dfca",
-    "size": 11074560
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Licht-0.4.0.exe",
+    "sha256": "34dcded9dfb783ad633d819017ae8565a0575ed688bfcf6df80c3bf9177a1708",
+    "size": 11704320
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.3.0.zip",
-    "sha256": "02ebe13d0703495b08721785f30c4cb37eda0f9bf5e5603e5b32326c4a283336",
-    "size": 17414093
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.4.0.zip",
+    "sha256": "76f20511c9f6e34ca9326dad2d4f2bced5cbbfb01654bdb7dff35d219b40c4c6",
+    "size": 17843241
   }
 }
