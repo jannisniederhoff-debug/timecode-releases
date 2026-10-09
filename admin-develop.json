@@ -1,23 +1,18 @@
 {
-  "version": "0.11.0",
-  "published": "2026-10-09T06:18:45Z",
+  "version": "0.11.1",
+  "published": "2026-10-09T11:28:16Z",
   "notes": [
-    "Läuft jetzt auch auf älteren Handys und Tablets (Safari 12 / Chrome 70)",
-    "Einstellungen nur noch am PC änderbar – Handys und Tablets schauen zu",
-    "Handys bekommen nur noch die Änderungen (viel weniger Daten, flüssiger)",
-    "Obere Leiste überlappt nicht mehr auf Tablets und kleinen Fenstern",
-    "Sender-PIN: nach mehr als 10 falschen Versuchen ist das Gerät 10 Minuten gesperrt",
-    "rekordbox-Verlauf ehrlich angezeigt (nie „Spielt“, Track-BPM getrennt vom Link-Tempo)",
-    "Viele kleine Fehler behoben"
+    "Meldungen übersichtlicher: höchstens 3 gleichzeitig, doppelte werden zusammengefasst",
+    "Kleine Verbesserungen"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-Admin-0.11.0.exe",
-    "sha256": "af4672304ead5c94d1de727e7ac671b2a371ba4708ef0f4584fee7873106e23a",
-    "size": 11653632
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-Admin-0.11.1.exe",
+    "sha256": "abfa888f7f82944d43fc8c00bd6e15fbc84778ca1a296cc36b053843fa4b3e52",
+    "size": 11687936
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Admin-Windows-0.2.0.zip",
-    "sha256": "c8d9c5d69f0280b9ca5e552be097d19f7cae92b883bbfa0e809133324902e52a",
-    "size": 17011437
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Admin-Windows-0.3.0.zip",
+    "sha256": "86b8099867349fa7d5276aa705bceb60a4ccf5c4d274968806548cedade24d6a",
+    "size": 17440450
   }
 }

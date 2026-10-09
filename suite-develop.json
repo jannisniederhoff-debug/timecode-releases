@@ -1,20 +1,19 @@
 {
-  "version": "0.2.0",
-  "published": "2026-10-09T06:18:47Z",
+  "version": "0.3.0",
+  "published": "2026-10-09T11:28:18Z",
   "notes": [
-    "Übersicht läuft auf älteren Tablets und Handys",
-    "Mehr Schutz gegen fremde Webseiten (DNS-Rebinding, Formular-Tricks)",
-    "„Alle installierten Programme laufen“, wenn ein Programm nicht installiert ist",
-    "Enthält Timecode 0.11.0, Digitalmixer 0.5.0 und Licht 0.2.0"
+    "Übersicht zeigt das offene Projekt pro Programm",
+    "Meldungen übersichtlicher",
+    "Enthält Timecode 0.11.1, Digitalmixer 0.6.0 und Licht 0.3.0"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-0.2.0.exe",
-    "sha256": "b57e47d918294d2a40bbd41f8daff2ee426e09788bdb69d256bdbc9793ec250b",
-    "size": 7795712
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-0.3.0.exe",
+    "sha256": "c1a0b5dbbc95f72785333ddf7236f5161e18cd1c6530e19e66622f09a194cf46",
+    "size": 7832064
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.2.0.zip",
-    "sha256": "b1d0587effbde06c46adefa58109d61d1c623434b506d4657cd0902b73fb8053",
-    "size": 16985252
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.3.0.zip",
+    "sha256": "02ebe13d0703495b08721785f30c4cb37eda0f9bf5e5603e5b32326c4a283336",
+    "size": 17414093
   }
 }

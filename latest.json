@@ -1,23 +1,18 @@
 {
-  "version": "0.11.0",
-  "published": "2026-10-09T06:18:44Z",
+  "version": "0.11.1",
+  "published": "2026-10-09T11:28:09Z",
   "notes": [
-    "Läuft jetzt auch auf älteren Handys und Tablets (Safari 12 / Chrome 70)",
-    "Einstellungen nur noch am PC änderbar – Handys und Tablets schauen zu",
-    "Handys bekommen nur noch die Änderungen (viel weniger Daten, flüssiger)",
-    "Obere Leiste überlappt nicht mehr auf Tablets und kleinen Fenstern",
-    "Sender-PIN: nach mehr als 10 falschen Versuchen ist das Gerät 10 Minuten gesperrt",
-    "rekordbox-Verlauf ehrlich angezeigt (nie „Spielt“, Track-BPM getrennt vom Link-Tempo)",
-    "Viele kleine Fehler behoben"
+    "Meldungen übersichtlicher: höchstens 3 gleichzeitig, doppelte werden zusammengefasst",
+    "Kleine Verbesserungen"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-0.11.0.exe",
-    "sha256": "13d61f56cdecb9b87d36da358dad9b03d94b36995d6e2409127ce50e41643cee",
-    "size": 11576320
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-0.11.1.exe",
+    "sha256": "e29a4de3a9775c725c766f7b39534af79d089854abbca379d877b62b371e3f56",
+    "size": 11610112
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.2.0.zip",
-    "sha256": "b1d0587effbde06c46adefa58109d61d1c623434b506d4657cd0902b73fb8053",
-    "size": 16985252
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.3.0.zip",
+    "sha256": "02ebe13d0703495b08721785f30c4cb37eda0f9bf5e5603e5b32326c4a283336",
+    "size": 17414093
   }
 }
