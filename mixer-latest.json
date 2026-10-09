@@ -1,12 +1,26 @@
 {
-  "version": "0.4.0",
-  "published": "2026-10-08T18:11:52Z",
+  "version": "0.5.0",
+  "published": "2026-10-09T06:18:45Z",
   "notes": [
-    "Neu: Teil der Event Suite – Haus-Symbol (zur Übersicht) und Umschalter zu den anderen Programmen"
+    "Neu: 3D-Raumplan – Boxen aufstellen, Kabel ziehen, durchschleifen, Kabelplan als Text",
+    "Einmessen: Messplätze im Raumplan, Abgleich der Laufzeiten mit dem Plan",
+    "Einmessen genauer: weit entfernte Boxen wurden manchmal bis 5 ms zu früh gemessen",
+    "Einmessen: jede Zone auf ihren entferntesten Lautsprecher ausgerichtet, EQ vorsichtiger",
+    "Handy: Zonen sofort sichtbar, live synchron, nur Zonen-Fader/Stumm/Lautsprecher-Pegel bedienbar",
+    "Neue Zonen bekommen automatisch alle Eingänge",
+    "DJ-Paar: eine Seite allein auf -∞ und zurück springt nicht mehr",
+    "Kaputte Mischpult-Datei: letzte gute Sicherung wird geladen, Löschen lässt sich rückgängig machen",
+    "Mischpult deutlich flüssiger bei vielen Kanälen",
+    "Netzwerk-Audio (AES67/Neutrik): keine Aussetzer beim Start"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Digitalmixer-0.4.0.exe",
-    "sha256": "427b20bca2fcf562152ae7a0232709a3ccb81fa0baef84c380be288f9db1410a",
-    "size": 8827392
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Digitalmixer-0.5.0.exe",
+    "sha256": "994306d302c230a6e526814278bae64990f93bdf97cbf9590f8b61251d5de2e3",
+    "size": 11206144
+  },
+  "package": {
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.2.0.zip",
+    "sha256": "b1d0587effbde06c46adefa58109d61d1c623434b506d4657cd0902b73fb8053",
+    "size": 16985252
   }
 }

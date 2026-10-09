@@ -1,0 +1,23 @@
+{
+  "version": "0.2.0",
+  "published": "2026-10-09T06:18:46Z",
+  "notes": [
+    "Neu: große Lampen-Bibliothek eingebaut (657 Lampen der Open Fixture Library) mit Suche und Filter",
+    "Tablet: zwei Fader gleichzeitig bewegen funktioniert jetzt richtig",
+    "Demo startet mit einer warmweißen Szene – im 3D sieht man sofort Licht",
+    "Updates und Zugangsschlüssel nur noch am PC änderbar",
+    "Umnummerieren nimmt die Programmer-Werte mit",
+    "Show-Datei wird nie mehr halb gespeichert",
+    "Läuft auf älteren Tablets (Safari 12 / Chrome 70)"
+  ],
+  "windows": {
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Licht-0.2.0.exe",
+    "sha256": "52e7240a0f0e24f94c9c752f776d0e6e50811455471c0ff1c457926cc23ebed1",
+    "size": 10676736
+  },
+  "package": {
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.2.0.zip",
+    "sha256": "b1d0587effbde06c46adefa58109d61d1c623434b506d4657cd0902b73fb8053",
+    "size": 16985252
+  }
+}

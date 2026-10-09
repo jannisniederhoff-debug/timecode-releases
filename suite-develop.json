@@ -1,17 +1,20 @@
 {
-  "version": "0.1.1",
-  "published": "2026-10-08T20:46:35Z",
+  "version": "0.2.0",
+  "published": "2026-10-09T06:18:47Z",
   "notes": [
-    "Räumt alte Programmkopien (*.old.exe) beim Start auf"
+    "Übersicht läuft auf älteren Tablets und Handys",
+    "Mehr Schutz gegen fremde Webseiten (DNS-Rebinding, Formular-Tricks)",
+    "„Alle installierten Programme laufen“, wenn ein Programm nicht installiert ist",
+    "Enthält Timecode 0.11.0, Digitalmixer 0.5.0 und Licht 0.2.0"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-0.1.1.exe",
-    "sha256": "35fdb89b3bf0097e678f0bca3c532472aad40f51a9e2d3fcc51521af43cde6d4",
-    "size": 7633920
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-0.2.0.exe",
+    "sha256": "b57e47d918294d2a40bbd41f8daff2ee426e09788bdb69d256bdbc9793ec250b",
+    "size": 7795712
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows.zip",
-    "sha256": "20c634c23c0f06014847640e5dd13db8deecc61a9a23bf80fd37c766684a7d29",
-    "size": 11338110
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.2.0.zip",
+    "sha256": "b1d0587effbde06c46adefa58109d61d1c623434b506d4657cd0902b73fb8053",
+    "size": 16985252
   }
 }
