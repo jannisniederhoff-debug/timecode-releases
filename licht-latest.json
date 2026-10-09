@@ -1,21 +1,22 @@
 {
-  "version": "0.4.0",
-  "published": "2026-10-09T13:01:19Z",
+  "version": "0.5.0",
+  "published": "2026-10-09T14:31:06Z",
   "notes": [
-    "Neu: Reiter „Bühne“ – Mittellinie, ± Maße, Spiegeln, Traversen (Teileliste, Gewicht), Lampen anhängen und verteilen",
-    "Neu: Farbmix – Abwechselnd, Symmetrisch, Blöcke, Verlauf (Regenbogen), Zufall; Springen, Fließen, Folge mit Übergängen",
-    "Neu: Übergänge für Chaser (Lauf links→rechts, außen→innen …)",
-    "Neu: Hoch/Runter und Links/Rechts, „Licht koppeln“ (Dark Move: an beim Hochfahren, aus beim Runterfahren)",
-    "Neu: „Läuft gerade“ – laufende Effekte live nachregeln, am PC übernehmen"
+    "Neu: Szenen-Ablauf – Dauer und „Am Ende“ (ausblenden, halten, wiederholen, nächste Szene), Restzeit auf den Kacheln",
+    "Neu: Tonspur in der Timeline – Song laden (WAV, FLAC, MP3), Wellenform, Takt- und Teil-Erkennung, „Show starten“",
+    "Ton geht auf ein wählbares Ausgabegerät; im Digitalmixer als „App-Ton: Licht“ abholbar",
+    "Neu: Shows zu Tracks vom CDJ – die Timeline folgt dem Player über Timecode (Pitch, Loops, Pause)",
+    "Neu: Show-Generator – Intro, Build-up, Drop, Breakdown, Outro automatisch; 3 Varianten, „Neu würfeln“",
+    "Behoben: Effekt-Art im Programmer ließ sich nicht umstellen"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Licht-0.4.0.exe",
-    "sha256": "34dcded9dfb783ad633d819017ae8565a0575ed688bfcf6df80c3bf9177a1708",
-    "size": 11704320
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Licht-0.5.0.exe",
+    "sha256": "697d81cc51bedf94e15059f7c9a49438df8ee746e738a44821553366ce8c2a0c",
+    "size": 12339712
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.4.0.zip",
-    "sha256": "76f20511c9f6e34ca9326dad2d4f2bced5cbbfb01654bdb7dff35d219b40c4c6",
-    "size": 17843241
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.5.0.zip",
+    "sha256": "b8c3264ea08d10334acdc9ca1ce39c6eae9addf85a32a6756d9cd6fefeae7c24",
+    "size": 18090588
   }
 }
