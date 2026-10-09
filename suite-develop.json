@@ -1,17 +1,21 @@
 {
-  "version": "0.5.0",
-  "published": "2026-10-09T14:31:06Z",
+  "version": "0.6.0",
+  "published": "2026-10-09T21:41:42Z",
   "notes": [
-    "Enthält Licht 0.5.0 mit Musik, Timecode-Shows und Show-Generator"
+    "Neue, aufgeräumte Ordnerstruktur: ein Ordner pro Programm, gemeinsame Projekte; Daten werden gesichert und übernommen",
+    "Fehlende Programme (z. B. Licht) werden automatisch mit installiert",
+    "Desktop- und Startmenü-Verknüpfung „Event Suite“",
+    "Neu: Knopf „Alle aktualisieren“",
+    "Geräte-Rechte für Handys (Voll, Personal, Nur ansehen)"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-0.5.0.exe",
-    "sha256": "865a4ec6e75ca2fd2f835bd47653f46b2247beda5fd8f733c283119b264976c2",
-    "size": 7955456
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-0.6.0.exe",
+    "sha256": "fbbfff13514b75f21ce74551c894fefa76ec06fbfd2d46de860b76adcc8ceeb5",
+    "size": 10804736
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.5.0.zip",
-    "sha256": "b8c3264ea08d10334acdc9ca1ce39c6eae9addf85a32a6756d9cd6fefeae7c24",
-    "size": 18090588
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.6.0.zip",
+    "sha256": "1e2a2aad4080b749de9d79495478ba8c7dc84adf10f6396660428217550f16f6",
+    "size": 21359482
   }
 }

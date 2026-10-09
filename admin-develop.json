@@ -1,18 +1,18 @@
 {
-  "version": "0.11.1",
-  "published": "2026-10-09T11:28:16Z",
+  "version": "0.12.0",
+  "published": "2026-10-09T21:41:38Z",
   "notes": [
-    "Meldungen übersichtlicher: höchstens 3 gleichzeitig, doppelte werden zusammengefasst",
-    "Kleine Verbesserungen"
+    "Enthält Event Suite 0.6.0: neue, aufgeräumte Ordnerstruktur und Licht",
+    "Timecode-Sender: reines Konsolenfenster mit Checkliste und Anleitung"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-Admin-0.11.1.exe",
-    "sha256": "abfa888f7f82944d43fc8c00bd6e15fbc84778ca1a296cc36b053843fa4b3e52",
-    "size": 11687936
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-Admin-0.12.0.exe",
+    "sha256": "c7063589fea5cb7f7d051d6b53637adcd3579265a662dac92e13d116a43ae76c",
+    "size": 11956736
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Admin-Windows-0.5.0.zip",
-    "sha256": "fe703fd59186abc7076a1f435ff3e88fb35c28c8b970f0ca0a9b78ae625807b7",
-    "size": 18116648
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Admin-Windows-0.6.0.zip",
+    "sha256": "ac2771b6e532ecefa2037ddbbc219211d95d3df8301f85226e0c5e4e78949157",
+    "size": 21386078
   }
 }

@@ -1,22 +1,20 @@
 {
-  "version": "0.5.0",
-  "published": "2026-10-09T14:31:06Z",
+  "version": "0.6.0",
+  "published": "2026-10-09T21:41:33Z",
   "notes": [
-    "Neu: Szenen-Ablauf – Dauer und „Am Ende“ (ausblenden, halten, wiederholen, nächste Szene), Restzeit auf den Kacheln",
-    "Neu: Tonspur in der Timeline – Song laden (WAV, FLAC, MP3), Wellenform, Takt- und Teil-Erkennung, „Show starten“",
-    "Ton geht auf ein wählbares Ausgabegerät; im Digitalmixer als „App-Ton: Licht“ abholbar",
-    "Neu: Shows zu Tracks vom CDJ – die Timeline folgt dem Player über Timecode (Pitch, Loops, Pause)",
-    "Neu: Show-Generator – Intro, Build-up, Drop, Breakdown, Outro automatisch; 3 Varianten, „Neu würfeln“",
-    "Behoben: Effekt-Art im Programmer ließ sich nicht umstellen"
+    "Neu: Bearbeiten- und Live-Modus, Not-Aus, Nebel-Automatik nur bei laufender Musik",
+    "Neu: Bänke wie bei Daslight (Dimmer, Farbe, eigene Bänke) und Flash-Tasten (Strobe/Nebel nur solange gedrückt)",
+    "Neu: Gobos, Fokus und Makros im Programmer, Bewegungsbereich (XY) mit Testfahrt, Patch per Ziehen",
+    "Automatische Sicherung alle 5 Minuten, Teile aus anderen Projekten übernehmen"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Licht-0.5.0.exe",
-    "sha256": "697d81cc51bedf94e15059f7c9a49438df8ee746e738a44821553366ce8c2a0c",
-    "size": 12339712
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Licht-0.6.0.exe",
+    "sha256": "2b9812457172f98b6a64c8d6891c0638b2f2f03a84446ab6a693178af611c88b",
+    "size": 15304192
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.5.0.zip",
-    "sha256": "b8c3264ea08d10334acdc9ca1ce39c6eae9addf85a32a6756d9cd6fefeae7c24",
-    "size": 18090588
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.6.0.zip",
+    "sha256": "1e2a2aad4080b749de9d79495478ba8c7dc84adf10f6396660428217550f16f6",
+    "size": 21359482
   }
 }
