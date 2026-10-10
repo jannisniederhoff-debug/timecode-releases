@@ -1,18 +1,18 @@
 {
-  "version": "0.12.0",
-  "published": "2026-10-09T21:41:38Z",
+  "version": "0.12.1",
+  "published": "2026-10-10T10:07:33Z",
   "notes": [
-    "Enthält Event Suite 0.6.0: neue, aufgeräumte Ordnerstruktur und Licht",
-    "Timecode-Sender: reines Konsolenfenster mit Checkliste und Anleitung"
+    "Pro-Ansicht: Cover wieder quadratisch",
+    "Darstellungsfehler in Geräte → Einstellungen & Werkzeuge behoben"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-Admin-0.12.0.exe",
-    "sha256": "c7063589fea5cb7f7d051d6b53637adcd3579265a662dac92e13d116a43ae76c",
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-Admin-0.12.1.exe",
+    "sha256": "f4ff30ed209cd525b719fb1a6f2355417670d1546e1f9c4c986a77c266881a6a",
     "size": 11956736
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Admin-Windows-0.6.0.zip",
-    "sha256": "ac2771b6e532ecefa2037ddbbc219211d95d3df8301f85226e0c5e4e78949157",
-    "size": 21386078
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Admin-Windows-0.7.0.zip",
+    "sha256": "ba38f6f7f15cb08ef4fe9507dd6eecd2814155a2f9078f17ae42781225143b32",
+    "size": 22749031
   }
 }

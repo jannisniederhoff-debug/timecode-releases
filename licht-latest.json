@@ -1,20 +1,23 @@
 {
-  "version": "0.6.0",
-  "published": "2026-10-09T21:41:33Z",
+  "version": "0.7.0",
+  "published": "2026-10-10T10:07:22Z",
   "notes": [
-    "Neu: Bearbeiten- und Live-Modus, Not-Aus, Nebel-Automatik nur bei laufender Musik",
-    "Neu: Bänke wie bei Daslight (Dimmer, Farbe, eigene Bänke) und Flash-Tasten (Strobe/Nebel nur solange gedrückt)",
-    "Neu: Gobos, Fokus und Makros im Programmer, Bewegungsbereich (XY) mit Testfahrt, Patch per Ziehen",
-    "Automatische Sicherung alle 5 Minuten, Teile aus anderen Projekten übernehmen"
+    "Obere Leiste: alle Tabs ohne Scrollen sichtbar, Blackout als Symbol, Not-Aus kleiner",
+    "Not-Aus löst mit einem kurzen Druck aus (Aufheben weiter nur bewusst am Licht-PC)",
+    "Über 1600 neue Lampen (QLC+-Bibliothek, u. a. B-Topper, FOS, Expolite, Botex) und Lampen aus Herstelleranleitungen (Eurolite TMH-H90, Stairville Hex TR1 …)",
+    "Neu: GDTF-Dateien importieren, Lampen werden beim Einlesen geprüft und repariert",
+    "Fenster „Lampen hinzufügen“ springt nicht mehr, viele Darstellungsfehler behoben",
+    "Modus-Leiste und Not-Aus aktualisieren sich sofort, Bank-Knöpfe schalten bei zwei Geräten nicht doppelt",
+    "Handy zeigt „Keine Verbindung“, entzogene Rechte wirken sofort"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Licht-0.6.0.exe",
-    "sha256": "2b9812457172f98b6a64c8d6891c0638b2f2f03a84446ab6a693178af611c88b",
-    "size": 15304192
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Licht-0.7.0.exe",
+    "sha256": "ca4611c2f7869be5d9744dc5fb64a95a326f727f6e5d0bfde3bcfe6d968559cc",
+    "size": 17124864
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.6.0.zip",
-    "sha256": "1e2a2aad4080b749de9d79495478ba8c7dc84adf10f6396660428217550f16f6",
-    "size": 21359482
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.7.0.zip",
+    "sha256": "136e593ab0ec154d1c2f25fe9149d96d210b4ae4030ea059d51e29ec68051dfd",
+    "size": 22722735
   }
 }
