@@ -1,20 +1,22 @@
 {
-  "version": "0.9.0",
-  "published": "2026-10-10T12:01:27Z",
+  "version": "0.9.1",
+  "published": "2026-10-10T16:21:32Z",
   "notes": [
-    "Rückkopplungs-Unterdrückung: Pfeifen in den Höhen wird deutlich schneller erkannt",
-    "„Alles stumm“ bleibt nach einem Neustart erhalten",
-    "Neuere oder gesperrte Mix-Dateien werden nie überschrieben",
-    "Netzwerk-Audio startet nach Kabel raus/rein von selbst neu; findet Timecode auch auf anderen Ports"
+    "Bedien-Sperre: Mischpult, Lautstärke und Routing starten gesperrt – Schloss oben antippen, 1 Minute bedienbar",
+    "„Alles stumm“ und „Zonen stumm“ bleiben immer bedienbar",
+    "Rückkopplung: erkennt jetzt auch stehendes/pulsierendes Pfeifen langer Schleifen (Windows-Audio)",
+    "Pegelbegrenzung regelt innerhalb der eingestellten Zeit zurück (ab 1 s)",
+    "Gain-Anzeige auch auf der rechten Seite eines Paars, Messmikrofon-Streifen volle Höhe",
+    "Zone ohne Lautsprecher wird deutlich angezeigt („⚠ kein Lautspr.“)"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Digitalmixer-0.9.0.exe",
-    "sha256": "87cdf2baf90f95113d35f8c9a8e78df537f1591d6155a9f309ac7141b100ce75",
-    "size": 15315968
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Digitalmixer-0.9.1.exe",
+    "sha256": "6eaf210398e8a2057f8490eed32601eb53b462cf5b00a19a9fde5a4c180d13f4",
+    "size": 15335936
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.8.0.zip",
-    "sha256": "b2f3ee1c2111f34ef53fec606398e9e37336a74687d112ebf4e53a3c482635a1",
-    "size": 22769683
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.8.1.zip",
+    "sha256": "74934860483444cfc8be513baa079d5649273357a4f5df9617ef7f710ec1e0b0",
+    "size": 22786212
   }
 }

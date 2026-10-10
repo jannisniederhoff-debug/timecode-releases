@@ -1,18 +1,18 @@
 {
-  "version": "0.12.2",
-  "published": "2026-10-10T12:01:42Z",
+  "version": "0.12.3",
+  "published": "2026-10-10T16:21:48Z",
   "notes": [
-    "rekordbox-Pfad nur am PC änderbar, keine Netzwerkpfade",
-    "Schutz gegen fremde Webseiten verbessert"
+    "Obere Leiste so hoch wie in den anderen Programmen",
+    "Nach einem Update lädt die Seite von selbst neu"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-0.12.2.exe",
-    "sha256": "a80a2cd1ad935d8929ee43c2f4300aa6ffc0865d353c134c233aa2c647a34498",
-    "size": 11879424
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-0.12.3.exe",
+    "sha256": "48b6f648113adcdcfc03d490055757047a98f892f470d2420fa1f1f4023c3f06",
+    "size": 11887104
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.8.0.zip",
-    "sha256": "b2f3ee1c2111f34ef53fec606398e9e37336a74687d112ebf4e53a3c482635a1",
-    "size": 22769683
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.8.1.zip",
+    "sha256": "74934860483444cfc8be513baa079d5649273357a4f5df9617ef7f710ec1e0b0",
+    "size": 22786212
   }
 }
