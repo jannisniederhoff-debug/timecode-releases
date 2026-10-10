@@ -1,19 +1,24 @@
 {
-  "version": "0.8.1",
-  "published": "2026-10-10T16:21:44Z",
+  "version": "0.9.0",
+  "published": "2026-10-10T19:12:17Z",
   "notes": [
-    "Bedien-Sperre: Live, Szenen und Programmer starten gesperrt – Schloss oben antippen, 1 Minute bedienbar",
-    "Not-Aus, Blackout, „Alles aus“ und Nebel-Stop bleiben immer bedienbar",
-    "Nach einem Update lädt die Seite von selbst neu"
+    "Neue, verständliche Reiter mit Erklärung beim Drüberfahren: Patch, Programmieren, Timeline, Knöpfe, Live, Bühne, Ausgabe",
+    "Programmieren: links Bänke und Szenen, Mitte 3D und Lampen, rechts Regler – Bänke für alle Lampen oder Gruppen erzeugen",
+    "Szene: einzelne Lampen an- und abhaken; Bank auf „eine Szene“ oder „mehrere gleichzeitig“ umschalten",
+    "Knopf-Seiten: große Knöpfe (z. B. Barbetrieb, Event) für Personal und Techniker, auf Live auch am Handy",
+    "Live: am PC 3D-Ansicht oben; Timeline: Blöcke direkt programmieren und in eine Bank übernehmen",
+    "Betriebsart oben als Schalter: Bearbeiten direkt (blau), verdeckt (orange), Live (grün)",
+    "Patch-Raster mit DMX-Adressen, Reiter „Kanäle“ mit jedem DMX-Kanal, freigegebene Farbe = schwarz",
+    "Art-Net: Netzwerkkarte wird auch nach neuer IP gefunden, Status je Universum; Bedien-Sperre nur noch auf Handy/Tablet"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Licht-0.8.1.exe",
-    "sha256": "5bb9be47fcaabc75695d4343c58b6f221b2d6837cebbe109a1ad5a8dbf4c999e",
-    "size": 17184768
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Licht-0.9.0.exe",
+    "sha256": "4dff750bd0807df3d0e2a0e573207cf68244ed4ed109e274be627429acaf5aae",
+    "size": 17429504
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.8.1.zip",
-    "sha256": "74934860483444cfc8be513baa079d5649273357a4f5df9617ef7f710ec1e0b0",
-    "size": 22786212
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.8.2.zip",
+    "sha256": "84df561bdf39a28b5d3079352beb86e66ede8ef71d4732a0fcf4766284c42da3",
+    "size": 22883780
   }
 }

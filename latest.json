@@ -1,18 +1,17 @@
 {
-  "version": "0.12.3",
-  "published": "2026-10-10T16:21:48Z",
+  "version": "0.12.4",
+  "published": "2026-10-10T19:12:21Z",
   "notes": [
-    "Obere Leiste so hoch wie in den anderen Programmen",
-    "Nach einem Update lädt die Seite von selbst neu"
+    "Unverändert – neues Gesamtpaket (Licht neu aufgebaut, Digitalmixer-Sperre nur auf Handy/Tablet)"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-0.12.3.exe",
-    "sha256": "48b6f648113adcdcfc03d490055757047a98f892f470d2420fa1f1f4023c3f06",
-    "size": 11887104
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-0.12.4.exe",
+    "sha256": "012412983c533066fe2fce90ddc949ae32a8a73ca3922c6d458825c33cde36e4",
+    "size": 11890688
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.8.1.zip",
-    "sha256": "74934860483444cfc8be513baa079d5649273357a4f5df9617ef7f710ec1e0b0",
-    "size": 22786212
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.8.2.zip",
+    "sha256": "84df561bdf39a28b5d3079352beb86e66ede8ef71d4732a0fcf4766284c42da3",
+    "size": 22883780
   }
 }

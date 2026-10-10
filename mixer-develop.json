@@ -1,22 +1,18 @@
 {
-  "version": "0.9.1",
-  "published": "2026-10-10T16:21:32Z",
+  "version": "0.9.2",
+  "published": "2026-10-10T19:12:05Z",
   "notes": [
-    "Bedien-Sperre: Mischpult, Lautstärke und Routing starten gesperrt – Schloss oben antippen, 1 Minute bedienbar",
-    "„Alles stumm“ und „Zonen stumm“ bleiben immer bedienbar",
-    "Rückkopplung: erkennt jetzt auch stehendes/pulsierendes Pfeifen langer Schleifen (Windows-Audio)",
-    "Pegelbegrenzung regelt innerhalb der eingestellten Zeit zurück (ab 1 s)",
-    "Gain-Anzeige auch auf der rechten Seite eines Paars, Messmikrofon-Streifen volle Höhe",
-    "Zone ohne Lautsprecher wird deutlich angezeigt („⚠ kein Lautspr.“)"
+    "Bedien-Sperre nur noch auf Handy und Tablet – am PC mit Maus ohne Schloss",
+    "Raumplan: 8 neue Bühnen-Vorlagen mit Skizze"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Digitalmixer-0.9.1.exe",
-    "sha256": "6eaf210398e8a2057f8490eed32601eb53b462cf5b00a19a9fde5a4c180d13f4",
-    "size": 15335936
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Digitalmixer-0.9.2.exe",
+    "sha256": "ebae3e02e62572bcbf6377da4579360e6ac35a9b33c4adfdf8f9f053cc00a8b0",
+    "size": 15365120
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.8.1.zip",
-    "sha256": "74934860483444cfc8be513baa079d5649273357a4f5df9617ef7f710ec1e0b0",
-    "size": 22786212
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.8.2.zip",
+    "sha256": "84df561bdf39a28b5d3079352beb86e66ede8ef71d4732a0fcf4766284c42da3",
+    "size": 22883780
   }
 }

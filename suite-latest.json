@@ -1,20 +1,20 @@
 {
-  "version": "0.8.1",
-  "published": "2026-10-10T16:21:57Z",
+  "version": "0.8.2",
+  "published": "2026-10-10T19:12:30Z",
   "notes": [
-    "Haus-Knopf führt wieder zur Übersicht (auch am Handy)",
-    "Nach einem Update laden offene Seiten von selbst neu – auch am Handy",
-    "Bedien-Sperre mit Schloss in Digitalmixer und Licht gegen versehentliches Verstellen",
-    "Digitalmixer: Rückkopplungs-Erkennung für lange Schleifen, schnellere Pegelbegrenzung"
+    "Licht neu aufgebaut: verständliche Reiter, Programmieren mit Bänken, Knopf-Seiten für Bar und Technik, Live mit 3D",
+    "Licht: Betriebsart als Schalter mit drei Symbolen, Szenen-Lampen an-/abhaken, Timeline-Blöcke direkt programmieren",
+    "Art-Net zuverlässiger (Netzwerkkarte nach IP-Wechsel), freigegebene Farbe ist schwarz",
+    "Bedien-Sperre in Digitalmixer und Licht nur noch auf Handy und Tablet"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-0.8.1.exe",
-    "sha256": "93780466fb8c7ec22480511204be2e44b3d52d79be429a49dc4c1e278ac28f57",
-    "size": 10834432
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-0.8.2.exe",
+    "sha256": "b0b6d93a288f1dc484aa638f6e1fc6f64d8ca4b835bfbd620da3cce8056e6157",
+    "size": 10838016
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.8.1.zip",
-    "sha256": "74934860483444cfc8be513baa079d5649273357a4f5df9617ef7f710ec1e0b0",
-    "size": 22786212
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.8.2.zip",
+    "sha256": "84df561bdf39a28b5d3079352beb86e66ede8ef71d4732a0fcf4766284c42da3",
+    "size": 22883780
   }
 }
