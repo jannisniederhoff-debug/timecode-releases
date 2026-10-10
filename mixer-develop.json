@@ -1,18 +1,20 @@
 {
-  "version": "0.8.1",
-  "published": "2026-10-10T10:07:07Z",
+  "version": "0.9.0",
+  "published": "2026-10-10T12:01:27Z",
   "notes": [
-    "Einmessen-Assistent: Klicks gehen nicht mehr verloren",
-    "Darstellungsfehler behoben (Pegelbegrenzung am Handy, Paar-Namen, Messmikrofon, Raumplan)"
+    "Rückkopplungs-Unterdrückung: Pfeifen in den Höhen wird deutlich schneller erkannt",
+    "„Alles stumm“ bleibt nach einem Neustart erhalten",
+    "Neuere oder gesperrte Mix-Dateien werden nie überschrieben",
+    "Netzwerk-Audio startet nach Kabel raus/rein von selbst neu; findet Timecode auch auf anderen Ports"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Digitalmixer-0.8.1.exe",
-    "sha256": "56eca52ecbeec3c260741f5bdcaa5a0778c20d1e3427a7d47e487ef0627a9bf8",
-    "size": 15281152
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Digitalmixer-0.9.0.exe",
+    "sha256": "87cdf2baf90f95113d35f8c9a8e78df537f1591d6155a9f309ac7141b100ce75",
+    "size": 15315968
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.7.0.zip",
-    "sha256": "136e593ab0ec154d1c2f25fe9149d96d210b4ae4030ea059d51e29ec68051dfd",
-    "size": 22722735
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.8.0.zip",
+    "sha256": "b2f3ee1c2111f34ef53fec606398e9e37336a74687d112ebf4e53a3c482635a1",
+    "size": 22769683
   }
 }

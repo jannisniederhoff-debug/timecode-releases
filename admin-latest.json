@@ -1,18 +1,18 @@
 {
-  "version": "0.12.1",
-  "published": "2026-10-10T10:07:33Z",
+  "version": "0.12.2",
+  "published": "2026-10-10T12:01:47Z",
   "notes": [
-    "Pro-Ansicht: Cover wieder quadratisch",
-    "Darstellungsfehler in Geräte → Einstellungen & Werkzeuge behoben"
+    "rekordbox-Pfad nur am PC änderbar, keine Netzwerkpfade",
+    "Schutz gegen fremde Webseiten verbessert"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-Admin-0.12.1.exe",
-    "sha256": "f4ff30ed209cd525b719fb1a6f2355417670d1546e1f9c4c986a77c266881a6a",
-    "size": 11956736
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-Admin-0.12.2.exe",
+    "sha256": "d4ab21c5b1d13f129e32b58e584fe16954e5adacd3f36350370f057fb087032a",
+    "size": 11957248
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Admin-Windows-0.7.0.zip",
-    "sha256": "ba38f6f7f15cb08ef4fe9507dd6eecd2814155a2f9078f17ae42781225143b32",
-    "size": 22749031
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Admin-Windows-0.8.0.zip",
+    "sha256": "9701f27900d1b25d0fe03d62c2b7ac6425e5a18c3d294e5fa61ddf59df54213d",
+    "size": 22796262
   }
 }
