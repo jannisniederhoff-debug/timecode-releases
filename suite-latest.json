@@ -1,21 +1,20 @@
 {
-  "version": "0.10.0",
-  "published": "2026-10-11T14:12:59Z",
+  "version": "0.11.0",
+  "published": "2026-10-11T16:31:46Z",
   "notes": [
-    "Ein Projekt für alle Programme: in der Übersicht öffnen, neu anlegen, umbenennen – Licht und Digitalmixer wechseln mit",
-    "Licht: Cue-Listen, Paletten-Pools, Befehlszeile, Fader-Leiste unten, Patch wie Daslight, Hängeplan-Vorschlag, mehrere Not-Szenen",
-    "Timecode: zeigt, wer die CDJ-Anschlüsse belegt; Senden erholt sich nach Netzwerk-Unterbrechung",
-    "Projekte: Beschreibung, umbenennen in der Liste, Papierkorb leeren; gelöschte Projekte kommen nicht zurück",
-    "Wichtig: Licht-Shows Format 10 und Bühnenplan Version 2 – bitte alle PCs aktualisieren"
+    "Licht: jedem Art-Net-Ausgang ein Universum (z. B. alle vier Ausgänge auf Universum 1), Assistent „Kanäle einlernen“ für falsch belegte Lampen, Dimmer-Fix",
+    "Digitalmixer: Pegelbegrenzung darf bis 100 dB absenken",
+    "Timecode: CDJs werden auch gefunden, wenn das LAN-Kabel erst später eingesteckt wird",
+    "Wichtig: Licht-Shows Format 11 – bitte alle PCs aktualisieren"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-0.10.0.exe",
-    "sha256": "439b96abf5c3401de0300561f289837ad71ccae5ddec9e23d162a22dee0d6186",
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-0.11.0.exe",
+    "sha256": "29c0b0945368932d22de5fdb17db7e6ac1b849135f47e12efea53d40d1015f64",
     "size": 11133440
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.10.0.zip",
-    "sha256": "b6a1dd1e51b984db56dc628498d30e97baddf400a76f9118d73d2d177181c05d",
-    "size": 23834649
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.11.0.zip",
+    "sha256": "b2c674eb2ba498217c4921a01a039fc550932ea2796a91051ad1b6264517d829",
+    "size": 23879688
   }
 }

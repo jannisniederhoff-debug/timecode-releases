@@ -1,19 +1,17 @@
 {
-  "version": "0.10.0",
-  "published": "2026-10-11T14:12:30Z",
+  "version": "0.10.1",
+  "published": "2026-10-11T16:31:18Z",
   "notes": [
-    "Gemeinsames Projekt: folgt dem Projekt der Event Suite (wartet bei Aufnahme/Einmessen)",
-    "Bühnenplan: Stangen an Traversen, mehrteilige Geräte am Stück (Bühnen-Datei Version 2)",
-    "Projekte: umbenennen und Beschreibung in der Liste, Papierkorb „Alle wiederherstellen“ / „Alle endgültig löschen“"
+    "Pegelbegrenzung: „Höchstens absenken um“ jetzt bis 100 dB (vorher 40 dB)"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Digitalmixer-0.10.0.exe",
-    "sha256": "011b3d3a3024db2d51c4696f66eafefdee62767d43ee9bb2b4cc1d14dec682ad",
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Digitalmixer-0.10.1.exe",
+    "sha256": "cbd87c585f7ddaf2251d0f132088fc77152ed94e3d3479eb34dda045df43c509",
     "size": 15656448
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.10.0.zip",
-    "sha256": "b6a1dd1e51b984db56dc628498d30e97baddf400a76f9118d73d2d177181c05d",
-    "size": 23834649
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.11.0.zip",
+    "sha256": "b2c674eb2ba498217c4921a01a039fc550932ea2796a91051ad1b6264517d829",
+    "size": 23879688
   }
 }

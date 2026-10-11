@@ -1,19 +1,18 @@
 {
-  "version": "0.12.7",
-  "published": "2026-10-11T14:12:50Z",
+  "version": "0.12.8",
+  "published": "2026-10-11T16:31:37Z",
   "notes": [
-    "Zeigt das Projekt der Event Suite an",
-    "CDJ-Empfang: nennt das Programm, das die CDJ-Anschlüsse belegt, bzw. meldet, wenn Windows sie sperrt",
-    "Senden an die CDJs erholt sich, wenn die Netzwerkkarte kurz weg war"
+    "LAN-Kabel bei schon laufenden CDJs einstecken: der Empfang startet von selbst neu",
+    "Hinweis auf Firewall/Switch, wenn auf der Netzwerkkarte nichts von den CDJs ankommt"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-0.12.7.exe",
-    "sha256": "33e43f5e09fa7413b255bb448c2009a2fca3552152f1371821cc2055ab692f6c",
-    "size": 11983872
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-0.12.8.exe",
+    "sha256": "d1343bdd3a8a1a2db2ac5ff33644cc3980c5802c2e66e675320881c52902d87a",
+    "size": 11992064
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.10.0.zip",
-    "sha256": "b6a1dd1e51b984db56dc628498d30e97baddf400a76f9118d73d2d177181c05d",
-    "size": 23834649
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.11.0.zip",
+    "sha256": "b2c674eb2ba498217c4921a01a039fc550932ea2796a91051ad1b6264517d829",
+    "size": 23879688
   }
 }

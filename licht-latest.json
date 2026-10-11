@@ -1,23 +1,20 @@
 {
-  "version": "0.12.0",
-  "published": "2026-10-11T14:12:45Z",
+  "version": "0.13.0",
+  "published": "2026-10-11T16:31:31Z",
   "notes": [
-    "grandMA-Teile: Cue-Listen mit GO/BACK (in Programmieren bauen, in Live spielen), Paletten als Verweis mit Pools, Befehlszeile (z. B. „1 Thru 4 At 50“)",
-    "Live: Fader in einer aufklappbaren Leiste unten, Fader-Seiten, Tempo-/Überblend-Fader, bis zu 3 Knöpfe je Fader, MIDI lernen",
-    "Patch-Seite wie Daslight: Bibliothek, DMX-Raster mit Universum-Auswahl, Startadresse „Auto“, Dimmer-Limit, Bewegungs-Limits in Grad, Pan/Tilt abfahren",
-    "Bühne: Geräte am Stück, Mehrfachauswahl, „Hängeplan vorschlagen“, Stangen an Traversen und Hänge-Vorlagen",
-    "Not-Aus: mehrere Not-Szenen; Zahnrad neben NOT-AUS 3 Sekunden halten zum Bearbeiten",
-    "Wiederholen-Knopf, Erklärungen (ⓘ), gemeinsames Projekt mit der Event Suite",
-    "Wichtig: Licht-Shows haben jetzt Format 10 – bitte alle PCs aktualisieren"
+    "Ausgabe: jedem Ausgang eines Art-Net-Geräts ein Universum geben – z. B. alle vier Ausgänge eines NET-4 auf Universum 1",
+    "Patch: Assistent „Kanäle einlernen“ – falsch belegte Lampen (z. B. Lixada) Kanal für Kanal an der echten Lampe einlernen und als eigene Lampe speichern",
+    "Dimmer bleibt im Dimmer-Bereich der Lampe (blitzt nicht mehr aus Versehen, z. B. Lixada Mini Wash)",
+    "Wichtig: Licht-Shows haben jetzt Format 11 – bitte alle PCs aktualisieren"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Licht-0.12.0.exe",
-    "sha256": "d1cfb95cd26e226eff9d12c0a9fa3e49c1794204219961197c247646d265184f",
-    "size": 19397120
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Licht-0.13.0.exe",
+    "sha256": "20e657686a6c4010ed3d29efd6cf797e0a5ab03a232a429be925e6df754c8e66",
+    "size": 19509760
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.10.0.zip",
-    "sha256": "b6a1dd1e51b984db56dc628498d30e97baddf400a76f9118d73d2d177181c05d",
-    "size": 23834649
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.11.0.zip",
+    "sha256": "b2c674eb2ba498217c4921a01a039fc550932ea2796a91051ad1b6264517d829",
+    "size": 23879688
   }
 }
