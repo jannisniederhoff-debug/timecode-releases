@@ -1,24 +1,23 @@
 {
-  "version": "0.11.0",
-  "published": "2026-10-11T11:04:51Z",
+  "version": "0.12.0",
+  "published": "2026-10-11T14:12:45Z",
   "notes": [
-    "Programmieren wie bei Daslight: Reiter „FX“, FX-Knopf an jedem Regler, „Schritte“ in der Szene, Auswahl/Alle zurücksetzen, neue Szene startet leer",
-    "Geräte mit mehreren Lampen: GigBAR & Co. als einzelne Lampen, „Köpfe einzeln steuern“ (z. B. KLS200), Gerät-Zeile wählt alle Teile",
-    "Patch: Mehrfachauswahl per Kästchen, mehrere Lampen zusammen verschieben, Gruppen mit Haken, „Aussehen im 3D“ je Lampen-Typ",
-    "Echte Gobos: bessere Erkennung und eigene Gobo-Bilder je Lampe (z. B. aus der Anleitung)",
-    "Automatik: nur mit Musik, „Wenn keine Musik kommt“, Strobe/Blinder/Nebel nach Beatgrid; Mixer-Eingänge als Musik wählbar",
-    "Knöpfe von außen auslösen: MIDI-Controller (Lernen) oder Pegel eines Mixer-Eingangs",
-    "Assistent „Neue Lampen mit den Szenen abgleichen“, Rechtsklick-Menüs, eigener Farbwähler, Bühnenplan von oben/vorne/Seite",
-    "„Alles aus“ mit „Zurück“, Effekte auf dem Beat, Show-Format 9 (ältere Licht-Versionen öffnen neue Shows nicht)"
+    "grandMA-Teile: Cue-Listen mit GO/BACK (in Programmieren bauen, in Live spielen), Paletten als Verweis mit Pools, Befehlszeile (z. B. „1 Thru 4 At 50“)",
+    "Live: Fader in einer aufklappbaren Leiste unten, Fader-Seiten, Tempo-/Überblend-Fader, bis zu 3 Knöpfe je Fader, MIDI lernen",
+    "Patch-Seite wie Daslight: Bibliothek, DMX-Raster mit Universum-Auswahl, Startadresse „Auto“, Dimmer-Limit, Bewegungs-Limits in Grad, Pan/Tilt abfahren",
+    "Bühne: Geräte am Stück, Mehrfachauswahl, „Hängeplan vorschlagen“, Stangen an Traversen und Hänge-Vorlagen",
+    "Not-Aus: mehrere Not-Szenen; Zahnrad neben NOT-AUS 3 Sekunden halten zum Bearbeiten",
+    "Wiederholen-Knopf, Erklärungen (ⓘ), gemeinsames Projekt mit der Event Suite",
+    "Wichtig: Licht-Shows haben jetzt Format 10 – bitte alle PCs aktualisieren"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Licht-0.11.0.exe",
-    "sha256": "310360f7c05b10a7793c69195ef4e5e393c3119cd1a7b9181a3b5aab50ec18d8",
-    "size": 18441728
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Licht-0.12.0.exe",
+    "sha256": "d1cfb95cd26e226eff9d12c0a9fa3e49c1794204219961197c247646d265184f",
+    "size": 19397120
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.9.0.zip",
-    "sha256": "5089d3237d2df9ab5f8c8300ec2a624b14982066fea5581e12226d0b95f11b0f",
-    "size": 23267892
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.10.0.zip",
+    "sha256": "b6a1dd1e51b984db56dc628498d30e97baddf400a76f9118d73d2d177181c05d",
+    "size": 23834649
   }
 }

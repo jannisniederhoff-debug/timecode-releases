@@ -1,17 +1,19 @@
 {
-  "version": "0.12.6",
-  "published": "2026-10-11T11:05:01Z",
+  "version": "0.12.7",
+  "published": "2026-10-11T14:12:54Z",
   "notes": [
-    "Unverändert – neues Gesamtpaket (Licht 0.11.0, Digitalmixer 0.9.4)"
+    "Zeigt das Projekt der Event Suite an",
+    "CDJ-Empfang: nennt das Programm, das die CDJ-Anschlüsse belegt, bzw. meldet, wenn Windows sie sperrt",
+    "Senden an die CDJs erholt sich, wenn die Netzwerkkarte kurz weg war"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-Admin-0.12.6.exe",
-    "sha256": "ca0c0fed18062085fcd2c39baf6b9ef62c953492f419be8e9cf867a6db5bd986",
-    "size": 11977728
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-Admin-0.12.7.exe",
+    "sha256": "a5cca656ee53b0995847bf09becbc6846d2e2e8a0b0b1c290bb8616cfb345792",
+    "size": 12062208
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Admin-Windows-0.9.0.zip",
-    "sha256": "775fe111f195f2043d83838589ca508285401564770921c852776a2bc2308bc1",
-    "size": 23294162
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Admin-Windows-0.10.0.zip",
+    "sha256": "e62572812905bd0efae205d1c29129bf69ed0ebeb42aa07d4388053cc3c66cd8",
+    "size": 23861061
   }
 }
