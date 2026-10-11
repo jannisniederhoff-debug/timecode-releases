@@ -1,20 +1,21 @@
 {
-  "version": "0.8.3",
-  "published": "2026-10-11T09:00:57Z",
+  "version": "0.9.0",
+  "published": "2026-10-11T11:05:05Z",
   "notes": [
-    "Licht: Automatik-Licht – das Licht folgt der Musik (Farben, Bewegung, Gobos, Strobe/Blinder, Nebel nur wenn erlaubt)",
-    "Licht: Effekte wie bei Daslight (Phase, Bereich, Kurve, Schritte), Gruppen-Master, „Position tauschen“, Welle im 3D",
-    "Licht: Beispiel-Show für 2× TMH-H90 und 2× Hex TR1, Knopf-Seiten per QR-Code teilen, Szenen speichern sich selbst",
-    "Viele Fehler aus zwei Gesamtprüfungen behoben"
+    "Licht: Programmieren wie bei Daslight (FX-Reiter, FX am Regler, Schritte in der Szene), Geräte mit mehreren Lampen (z. B. GigBAR)",
+    "Licht: Automatik nur mit Musik und Stöße nach Beatgrid, Knöpfe per MIDI oder Mixer-Pegel auslösen, echte Gobo-Bilder",
+    "Licht: Patch mit Mehrfachauswahl und Gruppen, 3D-Aussehen je Lampe, Assistent für neue Lampen, Rechtsklick-Menüs",
+    "Bühnenplan in Licht und Digitalmixer: Ansicht von oben, vorne und von der Seite",
+    "Wichtig: Licht-Shows haben jetzt Format 9 – bitte alle PCs aktualisieren"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-0.8.3.exe",
-    "sha256": "e31f9da6ec3979326e1a76fec6bef177b2d6598606eabf5f7301829776b5be3c",
-    "size": 10838528
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-0.9.0.exe",
+    "sha256": "dfb32c15126a9a1ecc69f285069a7ae9aad83065ed2106126a18775dab600afd",
+    "size": 10846720
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.8.3.zip",
-    "sha256": "a7063eec6ad256418062b4153b4587158aa3faf812b6a8f85aa8bddc2351cf26",
-    "size": 23013790
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.9.0.zip",
+    "sha256": "5089d3237d2df9ab5f8c8300ec2a624b14982066fea5581e12226d0b95f11b0f",
+    "size": 23267892
   }
 }

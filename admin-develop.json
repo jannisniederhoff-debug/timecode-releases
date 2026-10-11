@@ -1,17 +1,17 @@
 {
-  "version": "0.12.5",
-  "published": "2026-10-11T09:00:52Z",
+  "version": "0.12.6",
+  "published": "2026-10-11T11:05:01Z",
   "notes": [
-    "Unverändert – neues Gesamtpaket (Licht mit Automatik-Licht, Effekten wie Daslight und Beispiel-Show)"
+    "Unverändert – neues Gesamtpaket (Licht 0.11.0, Digitalmixer 0.9.4)"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-Admin-0.12.5.exe",
-    "sha256": "da173fbf8e69d05e82bc43c43c535702a0913ea8bcffa0bf9746da98c6b27868",
-    "size": 11969536
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-Admin-0.12.6.exe",
+    "sha256": "ca0c0fed18062085fcd2c39baf6b9ef62c953492f419be8e9cf867a6db5bd986",
+    "size": 11977728
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Admin-Windows-0.8.3.zip",
-    "sha256": "e6b500ea85073c88b6d4774260647406a7efb6cd48ea4d0b07fce040d7188ff4",
-    "size": 23040584
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Admin-Windows-0.9.0.zip",
+    "sha256": "775fe111f195f2043d83838589ca508285401564770921c852776a2bc2308bc1",
+    "size": 23294162
   }
 }

@@ -1,17 +1,17 @@
 {
-  "version": "0.9.3",
-  "published": "2026-10-11T09:00:31Z",
+  "version": "0.9.4",
+  "published": "2026-10-11T11:04:47Z",
   "notes": [
-    "Dialoge: ein vorausgefüllter Name ist markiert – einfach lostippen"
+    "Bühnenplan: Ansicht von oben, von vorne und von der Seite (mit Höhen)"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Digitalmixer-0.9.3.exe",
-    "sha256": "14c695eec57d6239db63236c23bf97b34366ea7a2d398a6c19a44db8a5731a14",
-    "size": 15366144
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Digitalmixer-0.9.4.exe",
+    "sha256": "ab64ed88c341c705c35b488f6ae85131973ad8b84e437279ccd270cedd983da0",
+    "size": 15374336
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.8.3.zip",
-    "sha256": "a7063eec6ad256418062b4153b4587158aa3faf812b6a8f85aa8bddc2351cf26",
-    "size": 23013790
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.9.0.zip",
+    "sha256": "5089d3237d2df9ab5f8c8300ec2a624b14982066fea5581e12226d0b95f11b0f",
+    "size": 23267892
   }
 }
