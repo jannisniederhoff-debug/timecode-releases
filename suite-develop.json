@@ -1,20 +1,20 @@
 {
-  "version": "0.8.2",
-  "published": "2026-10-10T19:12:30Z",
+  "version": "0.8.3",
+  "published": "2026-10-11T09:00:57Z",
   "notes": [
-    "Licht neu aufgebaut: verständliche Reiter, Programmieren mit Bänken, Knopf-Seiten für Bar und Technik, Live mit 3D",
-    "Licht: Betriebsart als Schalter mit drei Symbolen, Szenen-Lampen an-/abhaken, Timeline-Blöcke direkt programmieren",
-    "Art-Net zuverlässiger (Netzwerkkarte nach IP-Wechsel), freigegebene Farbe ist schwarz",
-    "Bedien-Sperre in Digitalmixer und Licht nur noch auf Handy und Tablet"
+    "Licht: Automatik-Licht – das Licht folgt der Musik (Farben, Bewegung, Gobos, Strobe/Blinder, Nebel nur wenn erlaubt)",
+    "Licht: Effekte wie bei Daslight (Phase, Bereich, Kurve, Schritte), Gruppen-Master, „Position tauschen“, Welle im 3D",
+    "Licht: Beispiel-Show für 2× TMH-H90 und 2× Hex TR1, Knopf-Seiten per QR-Code teilen, Szenen speichern sich selbst",
+    "Viele Fehler aus zwei Gesamtprüfungen behoben"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-0.8.2.exe",
-    "sha256": "b0b6d93a288f1dc484aa638f6e1fc6f64d8ca4b835bfbd620da3cce8056e6157",
-    "size": 10838016
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-0.8.3.exe",
+    "sha256": "e31f9da6ec3979326e1a76fec6bef177b2d6598606eabf5f7301829776b5be3c",
+    "size": 10838528
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.8.2.zip",
-    "sha256": "84df561bdf39a28b5d3079352beb86e66ede8ef71d4732a0fcf4766284c42da3",
-    "size": 22883780
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.8.3.zip",
+    "sha256": "a7063eec6ad256418062b4153b4587158aa3faf812b6a8f85aa8bddc2351cf26",
+    "size": 23013790
   }
 }

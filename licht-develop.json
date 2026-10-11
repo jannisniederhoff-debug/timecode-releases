@@ -1,24 +1,23 @@
 {
-  "version": "0.9.0",
-  "published": "2026-10-10T19:12:17Z",
+  "version": "0.10.0",
+  "published": "2026-10-11T09:00:43Z",
   "notes": [
-    "Neue, verständliche Reiter mit Erklärung beim Drüberfahren: Patch, Programmieren, Timeline, Knöpfe, Live, Bühne, Ausgabe",
-    "Programmieren: links Bänke und Szenen, Mitte 3D und Lampen, rechts Regler – Bänke für alle Lampen oder Gruppen erzeugen",
-    "Szene: einzelne Lampen an- und abhaken; Bank auf „eine Szene“ oder „mehrere gleichzeitig“ umschalten",
-    "Knopf-Seiten: große Knöpfe (z. B. Barbetrieb, Event) für Personal und Techniker, auf Live auch am Handy",
-    "Live: am PC 3D-Ansicht oben; Timeline: Blöcke direkt programmieren und in eine Bank übernehmen",
-    "Betriebsart oben als Schalter: Bearbeiten direkt (blau), verdeckt (orange), Live (grün)",
-    "Patch-Raster mit DMX-Adressen, Reiter „Kanäle“ mit jedem DMX-Kanal, freigegebene Farbe = schwarz",
-    "Art-Net: Netzwerkkarte wird auch nach neuer IP gefunden, Status je Universum; Bedien-Sperre nur noch auf Handy/Tablet"
+    "Automatik-Licht: spielt die Bänke selbst passend zur Musik (Timecode-Track oder Takt) – Farben, Dimmer, Bewegung, Gobos, kurze Strobe/Blinder, Nebel nur wenn erlaubt",
+    "Effekte wie bei Daslight: Phase (zusammen, abwechselnd, Lauf, zurück), Bereich als verschiebbares Band, Kurve, Schritte; Effekte laufen nach Raum-Position links → rechts",
+    "„Position tauschen“ für zwei vertauscht aufgehängte Lampen; Gruppen-Master auf Live; „Welle zeigen“ im 3D",
+    "Beispiel-Show für 2× Eurolite TMH-H90 und 2× Stairville Hex TR1 (Projekt-Menü) mit Gobos, Prisma und Timeline-Show",
+    "Knopf-Seiten per QR-Code aufs Handy teilen; Live-Reiter ausblendbar; Szene speichert sich beim Bearbeiten selbst",
+    "Regler-Werte eintippen (mit Komma), Szenen per Ziehen verschieben, Szenen-Optionen „Bleibt an“/„Läuft allein“, Blinder blendet aus",
+    "3D: Mehrfachauswahl, Gobos sichtbar, Live-3D folgt den Lampen; viele Fehler aus zwei Prüfungen behoben"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Licht-0.9.0.exe",
-    "sha256": "4dff750bd0807df3d0e2a0e573207cf68244ed4ed109e274be627429acaf5aae",
-    "size": 17429504
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Licht-0.10.0.exe",
+    "sha256": "caefbdca20f7c222ee2090ccb6ce601484a5d051fcee91c7e9b3a720c0457dda",
+    "size": 17804800
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.8.2.zip",
-    "sha256": "84df561bdf39a28b5d3079352beb86e66ede8ef71d4732a0fcf4766284c42da3",
-    "size": 22883780
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.8.3.zip",
+    "sha256": "a7063eec6ad256418062b4153b4587158aa3faf812b6a8f85aa8bddc2351cf26",
+    "size": 23013790
   }
 }

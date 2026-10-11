@@ -1,18 +1,17 @@
 {
-  "version": "0.9.2",
-  "published": "2026-10-10T19:12:05Z",
+  "version": "0.9.3",
+  "published": "2026-10-11T09:00:31Z",
   "notes": [
-    "Bedien-Sperre nur noch auf Handy und Tablet – am PC mit Maus ohne Schloss",
-    "Raumplan: 8 neue Bühnen-Vorlagen mit Skizze"
+    "Dialoge: ein vorausgefüllter Name ist markiert – einfach lostippen"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Digitalmixer-0.9.2.exe",
-    "sha256": "ebae3e02e62572bcbf6377da4579360e6ac35a9b33c4adfdf8f9f053cc00a8b0",
-    "size": 15365120
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Digitalmixer-0.9.3.exe",
+    "sha256": "14c695eec57d6239db63236c23bf97b34366ea7a2d398a6c19a44db8a5731a14",
+    "size": 15366144
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.8.2.zip",
-    "sha256": "84df561bdf39a28b5d3079352beb86e66ede8ef71d4732a0fcf4766284c42da3",
-    "size": 22883780
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.8.3.zip",
+    "sha256": "a7063eec6ad256418062b4153b4587158aa3faf812b6a8f85aa8bddc2351cf26",
+    "size": 23013790
   }
 }
