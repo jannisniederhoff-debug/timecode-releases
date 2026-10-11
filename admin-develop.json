@@ -1,18 +1,19 @@
 {
-  "version": "0.12.8",
-  "published": "2026-10-11T16:31:41Z",
+  "version": "0.12.9",
+  "published": "2026-10-11T17:37:48Z",
   "notes": [
-    "LAN-Kabel bei schon laufenden CDJs einstecken: der Empfang startet von selbst neu",
-    "Hinweis auf Firewall/Switch, wenn auf der Netzwerkkarte nichts von den CDJs ankommt"
+    "Hinweis bei „Erkannte Geräte“, wenn nichts von den CDJs ankommt – mit den nächsten Schritten",
+    "Firewall-Datei entfernt jetzt auch Sperren, die Windows nach „Abbrechen“ angelegt hat (einmal als Administrator ausführen)",
+    "Sender-Adressen zeigen ihre Netzwerkkarte (Kabel/WLAN); „Metadaten neu laden“ sagt, was passiert"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-Admin-0.12.8.exe",
-    "sha256": "494e0707d6d1f9b196bf7d77ba359edab1ecca33c178f375f999c75c91ae9a64",
-    "size": 12070400
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-Admin-0.12.9.exe",
+    "sha256": "6b43b3c5017ee2dc178a95ae08119c52211acd643d3e8e813a27c7243e5e425d",
+    "size": 12076544
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Admin-Windows-0.11.0.zip",
-    "sha256": "8e9232b87d08477f491f47a3e6d54cd8772fc63c62870c59052d47674f614e7f",
-    "size": 23904371
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Admin-Windows-0.12.0.zip",
+    "sha256": "9732a6222569cde6de4b25acfad764845b53b5423d3ad68094692d052e916fb5",
+    "size": 23940139
   }
 }

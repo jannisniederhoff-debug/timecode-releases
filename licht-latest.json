@@ -1,20 +1,21 @@
 {
-  "version": "0.13.0",
-  "published": "2026-10-11T16:31:31Z",
+  "version": "0.14.0",
+  "published": "2026-10-11T17:37:36Z",
   "notes": [
-    "Ausgabe: jedem Ausgang eines Art-Net-Geräts ein Universum geben – z. B. alle vier Ausgänge eines NET-4 auf Universum 1",
-    "Patch: Assistent „Kanäle einlernen“ – falsch belegte Lampen (z. B. Lixada) Kanal für Kanal an der echten Lampe einlernen und als eigene Lampe speichern",
-    "Dimmer bleibt im Dimmer-Bereich der Lampe (blitzt nicht mehr aus Versehen, z. B. Lixada Mini Wash)",
-    "Wichtig: Licht-Shows haben jetzt Format 11 – bitte alle PCs aktualisieren"
+    "Dimmerpacks: Botex MPX-405 und allgemeine Packs (2–12 Kanäle), auch die Packs aus der Bibliothek – je Kanal eine eigene Lampe",
+    "Je Kanal einstellbar, was dran hängt (PAR 64/56, Pinspot, Stufenlinse, Profiler, Fluter, Blinder, Birne, Lichterkette), mit Farbfolie und Leistung; Warnung bei zu viel Last",
+    "3D: klassische Scheinwerfer in echter Form, Halogen-Warmweiß, das beim Dimmen orange wird, mit Glühlampen-Nachglühen",
+    "Gleichmäßigerer DMX-Takt: Moving Heads ruckeln nicht mehr, wenn die 3D-Ansicht offen ist",
+    "Wichtig: Licht-Shows haben jetzt Format 12 – bitte alle PCs aktualisieren"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Licht-0.13.0.exe",
-    "sha256": "20e657686a6c4010ed3d29efd6cf797e0a5ab03a232a429be925e6df754c8e66",
-    "size": 19509760
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Licht-0.14.0.exe",
+    "sha256": "d55df6a7d65859d0a3637c6f74954081e02db1e827bcffb71644da1851037ec8",
+    "size": 19591680
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.11.0.zip",
-    "sha256": "b2c674eb2ba498217c4921a01a039fc550932ea2796a91051ad1b6264517d829",
-    "size": 23879688
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.12.0.zip",
+    "sha256": "2de772278972263ce84a0c962d8fa55250cdf91eeafbf515d1c54187b7fa68fd",
+    "size": 23915407
   }
 }

@@ -1,20 +1,19 @@
 {
-  "version": "0.11.0",
-  "published": "2026-10-11T16:31:46Z",
+  "version": "0.12.0",
+  "published": "2026-10-11T17:37:54Z",
   "notes": [
-    "Licht: jedem Art-Net-Ausgang ein Universum (z. B. alle vier Ausgänge auf Universum 1), Assistent „Kanäle einlernen“ für falsch belegte Lampen, Dimmer-Fix",
-    "Digitalmixer: Pegelbegrenzung darf bis 100 dB absenken",
-    "Timecode: CDJs werden auch gefunden, wenn das LAN-Kabel erst später eingesteckt wird",
-    "Wichtig: Licht-Shows Format 11 – bitte alle PCs aktualisieren"
+    "Licht: Dimmerpacks (z. B. Botex MPX-405) mit Lampen je Kanal und echter 3D-Darstellung; Moving Heads ruckeln nicht mehr bei offener 3D-Ansicht",
+    "Timecode: Hilfe, wenn die CDJs nicht gefunden werden; Firewall-Datei entfernt auch Windows-Sperren – bitte einmal als Administrator ausführen",
+    "Wichtig: Licht-Shows Format 12 – bitte alle PCs aktualisieren"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-0.11.0.exe",
-    "sha256": "29c0b0945368932d22de5fdb17db7e6ac1b849135f47e12efea53d40d1015f64",
-    "size": 11133440
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-0.12.0.exe",
+    "sha256": "5356f7d84fe0d72450902bcd1e25c08b2ce27c186a700477712741f71ea52b7b",
+    "size": 11136000
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.11.0.zip",
-    "sha256": "b2c674eb2ba498217c4921a01a039fc550932ea2796a91051ad1b6264517d829",
-    "size": 23879688
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.12.0.zip",
+    "sha256": "2de772278972263ce84a0c962d8fa55250cdf91eeafbf515d1c54187b7fa68fd",
+    "size": 23915407
   }
 }

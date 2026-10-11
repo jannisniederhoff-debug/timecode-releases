@@ -1,17 +1,17 @@
 {
   "version": "0.10.1",
-  "published": "2026-10-11T16:31:18Z",
+  "published": "2026-10-11T17:37:20Z",
   "notes": [
-    "Pegelbegrenzung: „Höchstens absenken um“ jetzt bis 100 dB (vorher 40 dB)"
+    "Unverändert – neues Gesamtpaket (Licht: Dimmerpacks, Timecode: Firewall-Hilfe)"
   ],
   "windows": {
     "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Digitalmixer-0.10.1.exe",
-    "sha256": "cbd87c585f7ddaf2251d0f132088fc77152ed94e3d3479eb34dda045df43c509",
-    "size": 15656448
+    "sha256": "0e4ba0ad29035282a908e6cfc8432113851f6d52c0c0fa21fa9c551cfcefa7bf",
+    "size": 15658496
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.11.0.zip",
-    "sha256": "b2c674eb2ba498217c4921a01a039fc550932ea2796a91051ad1b6264517d829",
-    "size": 23879688
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.12.0.zip",
+    "sha256": "2de772278972263ce84a0c962d8fa55250cdf91eeafbf515d1c54187b7fa68fd",
+    "size": 23915407
   }
 }
