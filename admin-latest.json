@@ -1,20 +1,20 @@
 {
-  "version": "0.13.0",
-  "published": "2026-10-12T03:43:22Z",
+  "version": "0.14.0",
+  "published": "2026-10-12T18:07:45Z",
   "notes": [
-    "Netzwerk-Check oben in „Geräte & Netzwerk“: Ampel, Netzwerkkarten, Windows-Profil, Firewall, CDJ-Anschlüsse, Verlauf – mit „So geht's“",
-    "Teilt die CDJ-Anschlüsse mit rekordbox/AnyDesk auf demselben PC, statt den Empfang abzuschalten",
-    "„Geräte & Netzwerk“ neu und übersichtlicher; DJ-Laptops einfach mit QR-Code; „Demo beenden“ nur noch einmal",
-    "Knopf „Firewall jetzt freigeben“ im CDJ-Hinweis; neues Programm-Icon"
+    "Demo lässt sich nicht mehr in eine Show mit echten CDJs mischen; doppelte Player-Nummer wird rot gemeldet",
+    "Kabel am spielenden CDJ gezogen: nach 2,5 s „Verbindung weg“, Licht bekommt „spielt nicht“",
+    "Ehrliche Paket-Anzeige im Netzwerk-Check; Kabel wieder eingesteckt startet den Empfang neu; virtueller Player wird gespeichert",
+    "Deutsche Meldungen nur einmal je Track; Pro-Ansicht auf Laptops vollständig; Handy-Kopfleiste kompakter"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-Admin-0.13.0.exe",
-    "sha256": "4d2a92b7ab6f0d9994302df21e427dd4e6f2679deed74d8e34fde81a4c2fcca7",
-    "size": 12316672
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-Admin-0.14.0.exe",
+    "sha256": "4c90b10c36106210899b432387cec2617dc01c062a3b6b2b9e191b2c51746fb4",
+    "size": 12439040
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Admin-Windows-0.13.0.zip",
-    "sha256": "330476c1e43ae6df7661e03cf81857e7e9d855964d37e68892b861edad8b5a3d",
-    "size": 24445982
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Admin-Windows-0.14.0.zip",
+    "sha256": "af0659bb11708e5cab308477951a1961a8dff86adc0270313995d168a602e101",
+    "size": 24913069
   }
 }

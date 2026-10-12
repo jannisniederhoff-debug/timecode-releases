@@ -1,19 +1,23 @@
 {
-  "version": "0.11.0",
-  "published": "2026-10-12T03:42:57Z",
+  "version": "0.12.0",
+  "published": "2026-10-12T18:07:19Z",
   "notes": [
-    "Rückkopplung: „Sofort“-Erkennung nimmt Pfeifen in Sekundenbruchteilen raus, dazu Notbremse (Kanal kurz runter und wieder hoch)",
-    "Pegelbegrenzung: „Höchstens absenken um“ jetzt bis 100 dB",
-    "Neues Programm-Icon"
+    "Einmessen: Delay-Türme werden auf die PA ausgerichtet statt auf 0 ms gesetzt – Warnung, wenn ein Delay stark sinken würde",
+    "Pegelbegrenzung: alle Zonen an einem Messmikro werden gemeinsam leiser; die Absenkung übersteht einen Neustart; neue Bass-Grenze LCeq",
+    "Rechte je Zone: Bar-Tablet nur die Bar, Bandmitglied nur sein Monitor-Mix (einstellbar in der Übersicht unter „Geräte & Rechte“)",
+    "Pegelbegrenzung wirkt jetzt auch, wenn das Messmikro nur unter „Pegel“ eingerichtet ist; Lautsprecher-Delay bis 500 ms",
+    "„Alles stumm“ darf jedes Gerät mit Bedienrechten auslösen – „Ton wieder an“ nur am Mixer-PC",
+    "ⓘ-Erklärungen auf allen Seiten; Rückkopplung bei langen Wegen schneller gebremst; Strg+Z im Raumplan stellt Boxen zurück",
+    "Wichtig: Mixer-Datei Version 11 – bitte alle PCs aktualisieren"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Digitalmixer-0.11.0.exe",
-    "sha256": "26b3e704dd1dbbf0b5cbd3c8a3e187be28d9117288129986e2eb2739fa445ccd",
-    "size": 15782912
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Digitalmixer-0.12.0.exe",
+    "sha256": "3908d4daa6456ae9c6069d66971592b65ac2a371f94fb4efc7172461bc88ac3c",
+    "size": 16241664
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.13.0.zip",
-    "sha256": "cda345209ad8bc98ae47cf5f71a82a761b5d98f21ac6259962986d763f52dbf1",
-    "size": 24408504
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.14.0.zip",
+    "sha256": "9f389149a6ec2b1dc6afea47cf6af37a743d25f7640acc1e2c76283cc50945bd",
+    "size": 24874300
   }
 }

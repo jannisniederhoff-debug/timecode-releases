@@ -1,25 +1,24 @@
 {
-  "version": "0.15.0",
-  "published": "2026-10-12T03:43:11Z",
+  "version": "0.16.0",
+  "published": "2026-10-12T18:07:34Z",
   "notes": [
-    "Bühne: Rückgängig/Wiederholen für alles (auch gelöschte Traversen), „Bauen | 3D-View“, Podest ziehen, 1-Punkt-Traverse",
-    "Lampen ausrichten und neigen – je Lampe und je Kopf (z. B. 4er-Spots), Abstrahlwinkel je Lampe",
-    "Programmieren: Farbe und Farbmix je LED-Segment, bis 32 Farben; Betopper L1015 kippt jetzt (Y-Achse = Tilt)",
-    "Automatik: ohne Musik eine Standard-Szene mit stillen Köpfen, Wechsel genau auf den Takt, Pausen mit Blinder oder dunkel, Dimmer-Muster je Gruppe, mehrere Ebenen",
-    "Patch: „Auswahl aufheben“ (Knopf, Esc, Klick ins Leere); Bewegungstest läuft ohne Effekte; Pan/Tilt umkehren sichtbar, „Symmetrisch zur Mitte“",
-    "Ausgabe: je Node-Ausgang ein Universum (NET-4), springt nicht mehr, Warnung bei 0:0:0; Dimmer „100-0%“-Profile richtig herum",
-    "„Kanäle einlernen“: Pan/Tilt in der Mitte; BPM eintippen gilt mit Enter/Tab; „Knöpfe“ heißt jetzt „Page Edit“ (Live: „Pages“)",
-    "Keine Browser-Pop-ups mehr, nur eigene Fenster; neues Programm-Icon",
-    "Wichtig: Licht-Shows haben jetzt Format 13 und Bühnen-Dateien Version 3 – bitte alle PCs aktualisieren"
+    "Automatik: läuft nach Absturz/Neustart von selbst wieder an; spielt in den Lücken einer gebundenen Timeline-Show; Pausen nach 0,4 s erkannt",
+    "Not-Aus beendet die Automatik-Knöpfe (keine Köpfe mehr im Dunkeln); Not-Licht während Not-Aus nur am PC änderbar",
+    "Blinder/Strobe nicht mehr in normalen Dimmer-Szenen – alte Shows werden beim Öffnen repariert (mit Meldung)",
+    "Kopfleiste passt sich jeder Breite an – nichts rutscht mehr unter den NOT-AUS (auch Laptop mit 125 %); Tablet: 3D in Programmieren wieder groß",
+    "Patch: neue Lampen stehen frei vor der Bühne, Auto-Adressen bleibt im Universum, „In Universum N patchen“, Umschalt-Klick = Bereich",
+    "Bühne: Strg+Z nach Aufhängen stellt die Lampe an ihren alten Platz; Tauschen/Rückgängig/Wiederholen verliert keine Plätze mehr; 1-Punkt-Warnung über 10 kg",
+    "Live: „Nur ansehen“ für Patch/Ausgabe während der Show; Entsperren kehrt zur vorherigen Betriebsart zurück; Hilfe öffnet bei der aktuellen Seite",
+    "Projekte: „Als Datei speichern“, „Aus Datei öffnen“, „Freigeben (Link)“ mit QR-Code; „Neu …“ fragt nach dem Namen"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Licht-0.15.0.exe",
-    "sha256": "6b479df09c7f1de00a94d817e116d210372cb5c02195bc5d0292d8bd6b1dd8a4",
-    "size": 19943936
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Licht-0.16.0.exe",
+    "sha256": "92106ff2ec599900e299dfbb9e1812966b50d9f7d71f45dfc9817cf4546c9bf7",
+    "size": 20305408
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.13.0.zip",
-    "sha256": "cda345209ad8bc98ae47cf5f71a82a761b5d98f21ac6259962986d763f52dbf1",
-    "size": 24408504
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.14.0.zip",
+    "sha256": "9f389149a6ec2b1dc6afea47cf6af37a743d25f7640acc1e2c76283cc50945bd",
+    "size": 24874300
   }
 }

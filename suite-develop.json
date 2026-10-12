@@ -1,22 +1,23 @@
 {
-  "version": "0.13.0",
-  "published": "2026-10-12T03:43:27Z",
+  "version": "0.14.0",
+  "published": "2026-10-12T18:07:50Z",
   "notes": [
-    "Firewall wird beim Start automatisch geprüft und freigegeben (Windows fragt einmal nach Administrator-Rechten)",
-    "Neue Programm-Icons für alle vier Programme",
-    "Licht: Bühne mit Rückgängig, Lampen/Köpfe ausrichten, Farbe je LED-Segment, Automatik im Takt, NET-4 je Ausgang ein Universum",
-    "Timecode: Netzwerk-Check zeigt, warum CDJs nicht ankommen; teilt Anschlüsse mit rekordbox/AnyDesk",
-    "Digitalmixer: Rückkopplung sofort weg mit Notbremse; Pegelbegrenzung bis 100 dB",
-    "Wichtig: Licht-Shows Format 13 und Bühne Version 3 – bitte alle PCs aktualisieren"
+    "Projekte mitnehmen: „Als Datei speichern“, „Aus Datei öffnen“ und „Freigeben (Link)“ mit QR-Code – der Link gilt, solange die Event Suite läuft",
+    "Übersicht: Not-Aus rot sichtbar, „antwortet nicht“ bei eingefrorenen Programmen, „Stoppen“-Knopf, keine doppelten Programme nach Absturz",
+    "Not-Aus auslösen darf jedes Gerät mit Bedienrechten (auch Personal), aufheben überall nur am PC",
+    "Licht: Automatik nach Neustart wieder an, Kopfleiste ohne Überlappungen, Bühne-Rückgängig stellt Lampen zurück",
+    "Digitalmixer: Delay-Türme beim Einmessen, Pegel je Messmikro gemeinsam, Rechte je Zone",
+    "Timecode: Demo gesperrt bei echten CDJs, doppelte Player-Nummer, „Verbindung weg“",
+    "Wichtig: Mixer-Datei Version 11 und Geräte-Rechte Version 2 – bitte alle PCs aktualisieren"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-0.13.0.exe",
-    "sha256": "665c4f0565737c7fbbc0da4b87086eeced838c6d7fdc09dca4fa8a22196629d5",
-    "size": 11289088
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-0.14.0.exe",
+    "sha256": "87bfb6c43c365e9a9d26e494be9d58456cc3311580244cc874d68297993d69ae",
+    "size": 11558400
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.13.0.zip",
-    "sha256": "cda345209ad8bc98ae47cf5f71a82a761b5d98f21ac6259962986d763f52dbf1",
-    "size": 24408504
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.14.0.zip",
+    "sha256": "9f389149a6ec2b1dc6afea47cf6af37a743d25f7640acc1e2c76283cc50945bd",
+    "size": 24874300
   }
 }
