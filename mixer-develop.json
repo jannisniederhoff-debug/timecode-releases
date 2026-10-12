@@ -1,18 +1,17 @@
 {
-  "version": "0.12.2",
-  "published": "2026-10-12T18:32:47Z",
+  "version": "0.12.3",
+  "published": "2026-10-12T18:50:25Z",
   "notes": [
-    "Neutrik/Dante-Box wird jetzt unter ihrer richtigen Adresse angesprochen (vorher nahm der Mixer die Adresse des Routers) – „Blinken“, „AES67 einschalten“ und Geräte-Infos erreichen die Box",
-    "Hinweis „AES67 ist an der Box aus“ erscheint jetzt zuverlässig"
+    "Neutrik/Dante-Box: Stand aktualisiert sich nach Neustart oder AES67 von selbst (kein „Neu suchen“ mehr nötig), und alle 20 Sekunden"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Digitalmixer-0.12.2.exe",
-    "sha256": "b1b2d95d941475eab4f67bb3b126dba6ea9233e4bf0721b0697a21e027124446",
-    "size": 16255488
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Digitalmixer-0.12.3.exe",
+    "sha256": "132c2bb1a8bfceaf9dd8c0fa5ec305cc829835d40326ede056ae2c8a8b2d01b6",
+    "size": 16257024
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.14.2.zip",
-    "sha256": "64988e07bce92584ab3588aff08855099121fec1f8931c969c2e4d30d096ea32",
-    "size": 24879816
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.14.3.zip",
+    "sha256": "5e28d31201e6f1da25044dae173bd98c9655093e74ebccb0d53be4b6642a9dba",
+    "size": 24880730
   }
 }
