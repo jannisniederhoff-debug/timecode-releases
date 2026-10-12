@@ -1,18 +1,18 @@
 {
-  "version": "0.12.1",
-  "published": "2026-10-12T18:20:23Z",
+  "version": "0.12.2",
+  "published": "2026-10-12T18:32:47Z",
   "notes": [
-    "Netzwerk-Audio startet von selbst, wenn das LAN-Kabel erst nach dem Start eingesteckt wird – kein Neustart des Digitalmixers mehr nötig",
-    "Ehrliche Anzeige: „Digitalmixer → Netzwerk 1/2“ ist der eigene Stream, kein Gerät – angezeigt wird jetzt, ob eine Box (z. B. Neutrik) wirklich gefunden wurde"
+    "Neutrik/Dante-Box wird jetzt unter ihrer richtigen Adresse angesprochen (vorher nahm der Mixer die Adresse des Routers) – „Blinken“, „AES67 einschalten“ und Geräte-Infos erreichen die Box",
+    "Hinweis „AES67 ist an der Box aus“ erscheint jetzt zuverlässig"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Digitalmixer-0.12.1.exe",
-    "sha256": "5b6a69a57a762e33d2bd0baa066562071b8a8518edfbd812293df3e74d00365d",
-    "size": 16248832
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Digitalmixer-0.12.2.exe",
+    "sha256": "b1b2d95d941475eab4f67bb3b126dba6ea9233e4bf0721b0697a21e027124446",
+    "size": 16255488
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.14.1.zip",
-    "sha256": "1692c6644fa27e7f2ea343cf0b98833e442470528f4000b2f1d29b327b23e2ae",
-    "size": 24877398
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.14.2.zip",
+    "sha256": "64988e07bce92584ab3588aff08855099121fec1f8931c969c2e4d30d096ea32",
+    "size": 24879816
   }
 }

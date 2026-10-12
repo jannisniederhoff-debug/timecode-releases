@@ -1,17 +1,17 @@
 {
   "version": "0.14.0",
-  "published": "2026-10-12T18:20:34Z",
+  "published": "2026-10-12T18:32:58Z",
   "notes": [
-    "Unverändert – neues Gesamtpaket (Digitalmixer: Netzwerk-Audio)"
+    "Unverändert – neues Gesamtpaket (Digitalmixer: Neutrik-Box)"
   ],
   "windows": {
     "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-0.14.0.exe",
-    "sha256": "214dd792f3029a8b5942bccec6b2dff8e0499e603815ae4b7f3a2ccd9e303b23",
+    "sha256": "97f0da3ac28997c246cc6789d2bd34a2b84b0be5cbe60a1e9fa782a85092f723",
     "size": 12334592
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.14.1.zip",
-    "sha256": "1692c6644fa27e7f2ea343cf0b98833e442470528f4000b2f1d29b327b23e2ae",
-    "size": 24877398
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.14.2.zip",
+    "sha256": "64988e07bce92584ab3588aff08855099121fec1f8931c969c2e4d30d096ea32",
+    "size": 24879816
   }
 }

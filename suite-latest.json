@@ -1,17 +1,17 @@
 {
-  "version": "0.14.1",
-  "published": "2026-10-12T18:20:45Z",
+  "version": "0.14.2",
+  "published": "2026-10-12T18:33:08Z",
   "notes": [
-    "Digitalmixer: Netzwerk-Audio startet von selbst, wenn das LAN-Kabel später kommt; ehrliche Anzeige, ob eine Neutrik-Box wirklich gefunden wurde"
+    "Digitalmixer: Neutrik-Box wird unter ihrer richtigen Adresse gefunden – Blinken und AES67 einschalten erreichen die Box"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-0.14.1.exe",
-    "sha256": "970176bae8c91350ad3bdd18d7b47cb372ce16affb668adb804f64c4e47682c6",
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-0.14.2.exe",
+    "sha256": "dbb94677a93c0f2d816d77e0cb9544e734c0213665a6bef96a5c795137e0e69c",
     "size": 11558400
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.14.1.zip",
-    "sha256": "1692c6644fa27e7f2ea343cf0b98833e442470528f4000b2f1d29b327b23e2ae",
-    "size": 24877398
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.14.2.zip",
+    "sha256": "64988e07bce92584ab3588aff08855099121fec1f8931c969c2e4d30d096ea32",
+    "size": 24879816
   }
 }
