@@ -1,17 +1,17 @@
 {
   "version": "0.16.0",
-  "published": "2026-10-12T19:32:39Z",
+  "published": "2026-10-12T19:45:33Z",
   "notes": [
-    "Unverändert – neues Gesamtpaket (Digitalmixer: Neutrik-Box)"
+    "Unverändert – neues Gesamtpaket (Digitalmixer: Neutrik-Box umschalten)"
   ],
   "windows": {
     "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Licht-0.16.0.exe",
-    "sha256": "7480fcbff320f5cc31f7fd9a7b33edb3dd9626b602ce83172c9757918999b988",
+    "sha256": "1d4e59d4ce55a5788bd53b5450965ebdde030d5339df5a4b34cb6dfcb368e0dc",
     "size": 20304896
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.14.4.zip",
-    "sha256": "425abd4394e8b0670311490784716605a8dcbdc8370f815357ee5480e6a6242e",
-    "size": 24998141
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.14.5.zip",
+    "sha256": "a72ac96c70cd2f1b16288337951619b38f09cea846a57387ac066de114a4b62b",
+    "size": 25008297
   }
 }

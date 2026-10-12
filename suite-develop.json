@@ -1,17 +1,17 @@
 {
-  "version": "0.14.4",
-  "published": "2026-10-12T19:32:55Z",
+  "version": "0.14.5",
+  "published": "2026-10-12T19:45:49Z",
   "notes": [
-    "Digitalmixer: Neutrik/Dante-Box per Knopf auf den Mixer schalten (ohne Dante Controller, experimentell), Verbindungs-Check, eigener Stream je Box"
+    "Digitalmixer 0.13.1: Neutrik/Dante-Box umschalten ersetzt alte Abos der Box und prüft genauer, ob es geklappt hat"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-0.14.4.exe",
-    "sha256": "8baa62779c52ac1ae58eb5a83d4fbcd668aa3b1f0ffb987a313ac4dbd94761cd",
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-0.14.5.exe",
+    "sha256": "80f5a1f62a07c8516b499fd88c27e07b07c9f30b4d093e5cbfeaaca528e875ee",
     "size": 11558400
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.14.4.zip",
-    "sha256": "425abd4394e8b0670311490784716605a8dcbdc8370f815357ee5480e6a6242e",
-    "size": 24998141
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.14.5.zip",
+    "sha256": "a72ac96c70cd2f1b16288337951619b38f09cea846a57387ac066de114a4b62b",
+    "size": 25008297
   }
 }

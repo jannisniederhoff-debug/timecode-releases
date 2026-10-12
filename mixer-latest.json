@@ -1,19 +1,19 @@
 {
-  "version": "0.13.0",
-  "published": "2026-10-12T19:32:34Z",
+  "version": "0.13.1",
+  "published": "2026-10-12T19:45:28Z",
   "notes": [
-    "Neu: Knopf „Box auf den Digitalmixer schalten“ unter Geräte → Netzwerk-Audio – schaltet eine Neutrik/Dante-Box ohne Dante Controller auf den Ton des Mixers und prüft danach, ob es geklappt hat (experimentell)",
-    "Verbindungs-Check mit Ampel: Box gefunden, Netzwerkkarte, Windows/Firewall, AES67, Takt, Abo, Ton – jeweils mit „So geht's“",
-    "Jede gefundene Box bekommt einen eigenen Stream mit ihrem Namen – Ausgänge heißen z. B. „NA2DLINE-893223 · Ausgang 1 (XLR)“, Blinken direkt am Ausgang"
+    "„Box auf den Digitalmixer schalten“ ersetzt jetzt alte Abos der Box (z. B. von einer anderen Dante-Quelle) durch den Ton des Mixers",
+    "Prüft zusätzlich die Empfangs-Flows der Box und nutzt die Protokoll-Version, die die Box selbst meldet",
+    "Anleitung NETZWERK-AUDIO.md: Teil 0 mit Bedeutung der LEDs an der Box"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Digitalmixer-0.13.0.exe",
-    "sha256": "80307f93eb9fb26168b88e530a3a21bb70efaf7f598f8701ab5cd26491246ed8",
-    "size": 16572416
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Digitalmixer-0.13.1.exe",
+    "sha256": "63b54726fd734b312676436b3e0158b62054ac5dfd05acdde47b78655f20129e",
+    "size": 16591360
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.14.4.zip",
-    "sha256": "425abd4394e8b0670311490784716605a8dcbdc8370f815357ee5480e6a6242e",
-    "size": 24998141
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.14.5.zip",
+    "sha256": "a72ac96c70cd2f1b16288337951619b38f09cea846a57387ac066de114a4b62b",
+    "size": 25008297
   }
 }
