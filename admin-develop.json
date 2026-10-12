@@ -1,17 +1,17 @@
 {
   "version": "0.14.0",
-  "published": "2026-10-12T20:16:19Z",
+  "published": "2026-10-12T21:12:21Z",
   "notes": [
-    "Unverändert – neues Gesamtpaket (Digitalmixer: Neutrik-Box sicherer)"
+    "Unverändert – neues Gesamtpaket (Digitalmixer: Neutrik-Box umschalten ohne Dante Controller)"
   ],
   "windows": {
     "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-Admin-0.14.0.exe",
-    "sha256": "d0fe15fea43c1e43ec9a2b41fb7049b5688b18018d07a17219822abe314806d5",
+    "sha256": "b944aaf501ecc519083295473ff453cfe9b94ab5536f06010ab72859bc4ae552",
     "size": 12441088
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Admin-Windows-0.14.6.zip",
-    "sha256": "0eee1013dcc54e79799da1d4e6141784b22fd6e9af8b5870097ad90589f6e533",
-    "size": 25040830
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Admin-Windows-0.14.7.zip",
+    "sha256": "bdbcaa5fced4ba3ee8078ce33696dec4566b6e7caefbeebefe23fb7d51372fa2",
+    "size": 25042106
   }
 }

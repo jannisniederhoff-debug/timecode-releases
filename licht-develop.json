@@ -1,17 +1,17 @@
 {
   "version": "0.16.0",
-  "published": "2026-10-12T20:16:08Z",
+  "published": "2026-10-12T21:12:11Z",
   "notes": [
-    "Unverändert – neues Gesamtpaket (Digitalmixer: Neutrik-Box sicherer)"
+    "Unverändert – neues Gesamtpaket (Digitalmixer: Neutrik-Box umschalten ohne Dante Controller)"
   ],
   "windows": {
     "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Licht-0.16.0.exe",
-    "sha256": "54d3d38802414d634f80f4800005c6b01993084394749ca99f4f30ebc0ab1dc2",
+    "sha256": "18d49ab7ef33a6a891cea9a0e7d3d3c1615488f9fcca01046e19d57f9e32e4b6",
     "size": 20304896
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.14.6.zip",
-    "sha256": "a8df35621c65ea1e12b037daca1ffe19a24cb43e095de0a894e18da33b076892",
-    "size": 25001973
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.14.7.zip",
+    "sha256": "6ded26f41dbbf1b2d7a02b6943a1c175e344bb73b5601822ded083a947f1f3c9",
+    "size": 25003246
   }
 }

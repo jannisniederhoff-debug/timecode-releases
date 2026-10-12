@@ -1,17 +1,17 @@
 {
-  "version": "0.14.6",
-  "published": "2026-10-12T20:16:24Z",
+  "version": "0.14.7",
+  "published": "2026-10-12T21:12:26Z",
   "notes": [
-    "Digitalmixer 0.13.2: Box-Umschalten kann die Neutrik-Box nicht mehr neu starten; bei Misserfolg bleibt die Box unverändert"
+    "Digitalmixer 0.13.3: Neutrik/Dante-Box per Knopf auf den Digitalmixer schalten – mit dem echten Befehl des Dante Controllers"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-0.14.6.exe",
-    "sha256": "5c9b453e721a331ca1a33c932602107a478f78ba13e5aefca6a5cd4178a1ee39",
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-0.14.7.exe",
+    "sha256": "a3497f8237a8f3ed70cd10b5de36c7d16d98a493ab0d4b86cbb7baa7d5cb2958",
     "size": 11558400
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.14.6.zip",
-    "sha256": "a8df35621c65ea1e12b037daca1ffe19a24cb43e095de0a894e18da33b076892",
-    "size": 25001973
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.14.7.zip",
+    "sha256": "6ded26f41dbbf1b2d7a02b6943a1c175e344bb73b5601822ded083a947f1f3c9",
+    "size": 25003246
   }
 }

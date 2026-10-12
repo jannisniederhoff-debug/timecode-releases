@@ -1,19 +1,18 @@
 {
-  "version": "0.13.2",
-  "published": "2026-10-12T20:16:02Z",
+  "version": "0.13.3",
+  "published": "2026-10-12T21:11:55Z",
   "notes": [
-    "Sicherheit: „Box auf den Digitalmixer schalten“ sendet nur noch den einen ungefährlichen Befehl – der frühere Ersatzweg hat eine Neutrik NA2-IO-DLINE neu starten lassen",
-    "Klappt das Umschalten nicht, bleibt die Box genau so, wie sie war (altes Abo wird nicht mehr entfernt)",
-    "Ehrlichere Meldung: an einer Neutrik NA2-IO-DLINE nimmt die Box den Befehl an, schaltet aber nicht um – sicher geht es einmalig mit dem Dante Controller"
+    "„Box auf den Digitalmixer schalten“ schickt jetzt denselben Befehl wie der Dante Controller (an einer Neutrik NA2-IO-DLINE mitgeschnitten) – kein Dante Controller mehr nötig",
+    "Verbindungs-Check erkennt jetzt, wenn die Box per AES67 auf den Digitalmixer geschaltet ist (auch wenn das mit dem Dante Controller gemacht wurde)"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Digitalmixer-0.13.2.exe",
-    "sha256": "bd50ecbcb494a0036cfd02248925c4b44798bb906d60bcec7810447032aa5550",
-    "size": 16579584
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Digitalmixer-0.13.3.exe",
+    "sha256": "2185e52df19c5c4b36830067be376cf14baa57efa8e71614f0309dc10c344ced",
+    "size": 16582144
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.14.6.zip",
-    "sha256": "a8df35621c65ea1e12b037daca1ffe19a24cb43e095de0a894e18da33b076892",
-    "size": 25001973
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.14.7.zip",
+    "sha256": "6ded26f41dbbf1b2d7a02b6943a1c175e344bb73b5601822ded083a947f1f3c9",
+    "size": 25003246
   }
 }
