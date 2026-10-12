@@ -1,17 +1,17 @@
 {
-  "version": "0.14.3",
-  "published": "2026-10-12T18:50:45Z",
+  "version": "0.14.4",
+  "published": "2026-10-12T19:32:55Z",
   "notes": [
-    "Digitalmixer: Neutrik-Box zeigt ihren Stand nach Neustart/AES67 von selbst an"
+    "Digitalmixer: Neutrik/Dante-Box per Knopf auf den Mixer schalten (ohne Dante Controller, experimentell), Verbindungs-Check, eigener Stream je Box"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-0.14.3.exe",
-    "sha256": "8b7ed0a920de26e40cf8d6d54f8c107cc5d400440d53d65908b48fe9bff73354",
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-0.14.4.exe",
+    "sha256": "8baa62779c52ac1ae58eb5a83d4fbcd668aa3b1f0ffb987a313ac4dbd94761cd",
     "size": 11558400
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.14.3.zip",
-    "sha256": "5e28d31201e6f1da25044dae173bd98c9655093e74ebccb0d53be4b6642a9dba",
-    "size": 24880730
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.14.4.zip",
+    "sha256": "425abd4394e8b0670311490784716605a8dcbdc8370f815357ee5480e6a6242e",
+    "size": 24998141
   }
 }

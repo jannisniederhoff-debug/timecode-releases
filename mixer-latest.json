@@ -1,17 +1,19 @@
 {
-  "version": "0.12.3",
-  "published": "2026-10-12T18:50:25Z",
+  "version": "0.13.0",
+  "published": "2026-10-12T19:32:34Z",
   "notes": [
-    "Neutrik/Dante-Box: Stand aktualisiert sich nach Neustart oder AES67 von selbst (kein „Neu suchen“ mehr nötig), und alle 20 Sekunden"
+    "Neu: Knopf „Box auf den Digitalmixer schalten“ unter Geräte → Netzwerk-Audio – schaltet eine Neutrik/Dante-Box ohne Dante Controller auf den Ton des Mixers und prüft danach, ob es geklappt hat (experimentell)",
+    "Verbindungs-Check mit Ampel: Box gefunden, Netzwerkkarte, Windows/Firewall, AES67, Takt, Abo, Ton – jeweils mit „So geht's“",
+    "Jede gefundene Box bekommt einen eigenen Stream mit ihrem Namen – Ausgänge heißen z. B. „NA2DLINE-893223 · Ausgang 1 (XLR)“, Blinken direkt am Ausgang"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Digitalmixer-0.12.3.exe",
-    "sha256": "132c2bb1a8bfceaf9dd8c0fa5ec305cc829835d40326ede056ae2c8a8b2d01b6",
-    "size": 16257024
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Digitalmixer-0.13.0.exe",
+    "sha256": "80307f93eb9fb26168b88e530a3a21bb70efaf7f598f8701ab5cd26491246ed8",
+    "size": 16572416
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.14.3.zip",
-    "sha256": "5e28d31201e6f1da25044dae173bd98c9655093e74ebccb0d53be4b6642a9dba",
-    "size": 24880730
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.14.4.zip",
+    "sha256": "425abd4394e8b0670311490784716605a8dcbdc8370f815357ee5480e6a6242e",
+    "size": 24998141
   }
 }
