@@ -1,17 +1,17 @@
 {
-  "version": "0.14.5",
-  "published": "2026-10-12T19:45:49Z",
+  "version": "0.14.6",
+  "published": "2026-10-12T20:16:24Z",
   "notes": [
-    "Digitalmixer 0.13.1: Neutrik/Dante-Box umschalten ersetzt alte Abos der Box und prüft genauer, ob es geklappt hat"
+    "Digitalmixer 0.13.2: Box-Umschalten kann die Neutrik-Box nicht mehr neu starten; bei Misserfolg bleibt die Box unverändert"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-0.14.5.exe",
-    "sha256": "80f5a1f62a07c8516b499fd88c27e07b07c9f30b4d093e5cbfeaaca528e875ee",
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-0.14.6.exe",
+    "sha256": "5c9b453e721a331ca1a33c932602107a478f78ba13e5aefca6a5cd4178a1ee39",
     "size": 11558400
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.14.5.zip",
-    "sha256": "a72ac96c70cd2f1b16288337951619b38f09cea846a57387ac066de114a4b62b",
-    "size": 25008297
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.14.6.zip",
+    "sha256": "a8df35621c65ea1e12b037daca1ffe19a24cb43e095de0a894e18da33b076892",
+    "size": 25001973
   }
 }
