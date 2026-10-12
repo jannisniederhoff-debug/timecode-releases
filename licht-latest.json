@@ -1,24 +1,17 @@
 {
   "version": "0.16.0",
-  "published": "2026-10-12T18:07:34Z",
+  "published": "2026-10-12T18:20:29Z",
   "notes": [
-    "Automatik: läuft nach Absturz/Neustart von selbst wieder an; spielt in den Lücken einer gebundenen Timeline-Show; Pausen nach 0,4 s erkannt",
-    "Not-Aus beendet die Automatik-Knöpfe (keine Köpfe mehr im Dunkeln); Not-Licht während Not-Aus nur am PC änderbar",
-    "Blinder/Strobe nicht mehr in normalen Dimmer-Szenen – alte Shows werden beim Öffnen repariert (mit Meldung)",
-    "Kopfleiste passt sich jeder Breite an – nichts rutscht mehr unter den NOT-AUS (auch Laptop mit 125 %); Tablet: 3D in Programmieren wieder groß",
-    "Patch: neue Lampen stehen frei vor der Bühne, Auto-Adressen bleibt im Universum, „In Universum N patchen“, Umschalt-Klick = Bereich",
-    "Bühne: Strg+Z nach Aufhängen stellt die Lampe an ihren alten Platz; Tauschen/Rückgängig/Wiederholen verliert keine Plätze mehr; 1-Punkt-Warnung über 10 kg",
-    "Live: „Nur ansehen“ für Patch/Ausgabe während der Show; Entsperren kehrt zur vorherigen Betriebsart zurück; Hilfe öffnet bei der aktuellen Seite",
-    "Projekte: „Als Datei speichern“, „Aus Datei öffnen“, „Freigeben (Link)“ mit QR-Code; „Neu …“ fragt nach dem Namen"
+    "Unverändert – neues Gesamtpaket (Digitalmixer: Netzwerk-Audio)"
   ],
   "windows": {
     "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Licht-0.16.0.exe",
-    "sha256": "92106ff2ec599900e299dfbb9e1812966b50d9f7d71f45dfc9817cf4546c9bf7",
+    "sha256": "b80be0cba6ed08726cdc62dfc99f0529e2aaf353c16da404832dd4a7dd94c552",
     "size": 20305408
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.14.0.zip",
-    "sha256": "9f389149a6ec2b1dc6afea47cf6af37a743d25f7640acc1e2c76283cc50945bd",
-    "size": 24874300
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.14.1.zip",
+    "sha256": "1692c6644fa27e7f2ea343cf0b98833e442470528f4000b2f1d29b327b23e2ae",
+    "size": 24877398
   }
 }

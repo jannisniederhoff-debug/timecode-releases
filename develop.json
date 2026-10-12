@@ -1,20 +1,17 @@
 {
   "version": "0.14.0",
-  "published": "2026-10-12T18:07:40Z",
+  "published": "2026-10-12T18:20:34Z",
   "notes": [
-    "Demo lässt sich nicht mehr in eine Show mit echten CDJs mischen; doppelte Player-Nummer wird rot gemeldet",
-    "Kabel am spielenden CDJ gezogen: nach 2,5 s „Verbindung weg“, Licht bekommt „spielt nicht“",
-    "Ehrliche Paket-Anzeige im Netzwerk-Check; Kabel wieder eingesteckt startet den Empfang neu; virtueller Player wird gespeichert",
-    "Deutsche Meldungen nur einmal je Track; Pro-Ansicht auf Laptops vollständig; Handy-Kopfleiste kompakter"
+    "Unverändert – neues Gesamtpaket (Digitalmixer: Netzwerk-Audio)"
   ],
   "windows": {
     "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-0.14.0.exe",
-    "sha256": "33c3cd1b273f9d1d609f89458a7ae386e8830ab79d64838d8cba29c03a7ab083",
+    "sha256": "214dd792f3029a8b5942bccec6b2dff8e0499e603815ae4b7f3a2ccd9e303b23",
     "size": 12334592
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.14.0.zip",
-    "sha256": "9f389149a6ec2b1dc6afea47cf6af37a743d25f7640acc1e2c76283cc50945bd",
-    "size": 24874300
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.14.1.zip",
+    "sha256": "1692c6644fa27e7f2ea343cf0b98833e442470528f4000b2f1d29b327b23e2ae",
+    "size": 24877398
   }
 }

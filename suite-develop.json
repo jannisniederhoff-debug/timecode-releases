@@ -1,23 +1,17 @@
 {
-  "version": "0.14.0",
-  "published": "2026-10-12T18:07:50Z",
+  "version": "0.14.1",
+  "published": "2026-10-12T18:20:45Z",
   "notes": [
-    "Projekte mitnehmen: „Als Datei speichern“, „Aus Datei öffnen“ und „Freigeben (Link)“ mit QR-Code – der Link gilt, solange die Event Suite läuft",
-    "Übersicht: Not-Aus rot sichtbar, „antwortet nicht“ bei eingefrorenen Programmen, „Stoppen“-Knopf, keine doppelten Programme nach Absturz",
-    "Not-Aus auslösen darf jedes Gerät mit Bedienrechten (auch Personal), aufheben überall nur am PC",
-    "Licht: Automatik nach Neustart wieder an, Kopfleiste ohne Überlappungen, Bühne-Rückgängig stellt Lampen zurück",
-    "Digitalmixer: Delay-Türme beim Einmessen, Pegel je Messmikro gemeinsam, Rechte je Zone",
-    "Timecode: Demo gesperrt bei echten CDJs, doppelte Player-Nummer, „Verbindung weg“",
-    "Wichtig: Mixer-Datei Version 11 und Geräte-Rechte Version 2 – bitte alle PCs aktualisieren"
+    "Digitalmixer: Netzwerk-Audio startet von selbst, wenn das LAN-Kabel später kommt; ehrliche Anzeige, ob eine Neutrik-Box wirklich gefunden wurde"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-0.14.0.exe",
-    "sha256": "87bfb6c43c365e9a9d26e494be9d58456cc3311580244cc874d68297993d69ae",
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-0.14.1.exe",
+    "sha256": "970176bae8c91350ad3bdd18d7b47cb372ce16affb668adb804f64c4e47682c6",
     "size": 11558400
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.14.0.zip",
-    "sha256": "9f389149a6ec2b1dc6afea47cf6af37a743d25f7640acc1e2c76283cc50945bd",
-    "size": 24874300
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.14.1.zip",
+    "sha256": "1692c6644fa27e7f2ea343cf0b98833e442470528f4000b2f1d29b327b23e2ae",
+    "size": 24877398
   }
 }
