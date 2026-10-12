@@ -1,21 +1,25 @@
 {
-  "version": "0.14.0",
-  "published": "2026-10-11T17:37:36Z",
+  "version": "0.15.0",
+  "published": "2026-10-12T03:43:11Z",
   "notes": [
-    "Dimmerpacks: Botex MPX-405 und allgemeine Packs (2–12 Kanäle), auch die Packs aus der Bibliothek – je Kanal eine eigene Lampe",
-    "Je Kanal einstellbar, was dran hängt (PAR 64/56, Pinspot, Stufenlinse, Profiler, Fluter, Blinder, Birne, Lichterkette), mit Farbfolie und Leistung; Warnung bei zu viel Last",
-    "3D: klassische Scheinwerfer in echter Form, Halogen-Warmweiß, das beim Dimmen orange wird, mit Glühlampen-Nachglühen",
-    "Gleichmäßigerer DMX-Takt: Moving Heads ruckeln nicht mehr, wenn die 3D-Ansicht offen ist",
-    "Wichtig: Licht-Shows haben jetzt Format 12 – bitte alle PCs aktualisieren"
+    "Bühne: Rückgängig/Wiederholen für alles (auch gelöschte Traversen), „Bauen | 3D-View“, Podest ziehen, 1-Punkt-Traverse",
+    "Lampen ausrichten und neigen – je Lampe und je Kopf (z. B. 4er-Spots), Abstrahlwinkel je Lampe",
+    "Programmieren: Farbe und Farbmix je LED-Segment, bis 32 Farben; Betopper L1015 kippt jetzt (Y-Achse = Tilt)",
+    "Automatik: ohne Musik eine Standard-Szene mit stillen Köpfen, Wechsel genau auf den Takt, Pausen mit Blinder oder dunkel, Dimmer-Muster je Gruppe, mehrere Ebenen",
+    "Patch: „Auswahl aufheben“ (Knopf, Esc, Klick ins Leere); Bewegungstest läuft ohne Effekte; Pan/Tilt umkehren sichtbar, „Symmetrisch zur Mitte“",
+    "Ausgabe: je Node-Ausgang ein Universum (NET-4), springt nicht mehr, Warnung bei 0:0:0; Dimmer „100-0%“-Profile richtig herum",
+    "„Kanäle einlernen“: Pan/Tilt in der Mitte; BPM eintippen gilt mit Enter/Tab; „Knöpfe“ heißt jetzt „Page Edit“ (Live: „Pages“)",
+    "Keine Browser-Pop-ups mehr, nur eigene Fenster; neues Programm-Icon",
+    "Wichtig: Licht-Shows haben jetzt Format 13 und Bühnen-Dateien Version 3 – bitte alle PCs aktualisieren"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Licht-0.14.0.exe",
-    "sha256": "d55df6a7d65859d0a3637c6f74954081e02db1e827bcffb71644da1851037ec8",
-    "size": 19591680
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Licht-0.15.0.exe",
+    "sha256": "6b479df09c7f1de00a94d817e116d210372cb5c02195bc5d0292d8bd6b1dd8a4",
+    "size": 19943936
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.12.0.zip",
-    "sha256": "2de772278972263ce84a0c962d8fa55250cdf91eeafbf515d1c54187b7fa68fd",
-    "size": 23915407
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.13.0.zip",
+    "sha256": "cda345209ad8bc98ae47cf5f71a82a761b5d98f21ac6259962986d763f52dbf1",
+    "size": 24408504
   }
 }

@@ -1,19 +1,20 @@
 {
-  "version": "0.12.9",
-  "published": "2026-10-11T17:37:42Z",
+  "version": "0.13.0",
+  "published": "2026-10-12T03:43:17Z",
   "notes": [
-    "Hinweis bei „Erkannte Geräte“, wenn nichts von den CDJs ankommt – mit den nächsten Schritten",
-    "Firewall-Datei entfernt jetzt auch Sperren, die Windows nach „Abbrechen“ angelegt hat (einmal als Administrator ausführen)",
-    "Sender-Adressen zeigen ihre Netzwerkkarte (Kabel/WLAN); „Metadaten neu laden“ sagt, was passiert"
+    "Netzwerk-Check oben in „Geräte & Netzwerk“: Ampel, Netzwerkkarten, Windows-Profil, Firewall, CDJ-Anschlüsse, Verlauf – mit „So geht's“",
+    "Teilt die CDJ-Anschlüsse mit rekordbox/AnyDesk auf demselben PC, statt den Empfang abzuschalten",
+    "„Geräte & Netzwerk“ neu und übersichtlicher; DJ-Laptops einfach mit QR-Code; „Demo beenden“ nur noch einmal",
+    "Knopf „Firewall jetzt freigeben“ im CDJ-Hinweis; neues Programm-Icon"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-0.12.9.exe",
-    "sha256": "2da03cc710d89ef807b34fb03cea06ad2ace1209784cde88b0216cc7f9bb5b36",
-    "size": 11998208
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-0.13.0.exe",
+    "sha256": "df20daa482b53dc47d88461419aca6d673311f9bff26bf3d0d1df8bb9f512653",
+    "size": 12211200
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.12.0.zip",
-    "sha256": "2de772278972263ce84a0c962d8fa55250cdf91eeafbf515d1c54187b7fa68fd",
-    "size": 23915407
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.13.0.zip",
+    "sha256": "cda345209ad8bc98ae47cf5f71a82a761b5d98f21ac6259962986d763f52dbf1",
+    "size": 24408504
   }
 }

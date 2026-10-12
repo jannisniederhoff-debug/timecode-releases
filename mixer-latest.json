@@ -1,17 +1,19 @@
 {
-  "version": "0.10.1",
-  "published": "2026-10-11T17:37:20Z",
+  "version": "0.11.0",
+  "published": "2026-10-12T03:42:57Z",
   "notes": [
-    "Unverändert – neues Gesamtpaket (Licht: Dimmerpacks, Timecode: Firewall-Hilfe)"
+    "Rückkopplung: „Sofort“-Erkennung nimmt Pfeifen in Sekundenbruchteilen raus, dazu Notbremse (Kanal kurz runter und wieder hoch)",
+    "Pegelbegrenzung: „Höchstens absenken um“ jetzt bis 100 dB",
+    "Neues Programm-Icon"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Digitalmixer-0.10.1.exe",
-    "sha256": "0e4ba0ad29035282a908e6cfc8432113851f6d52c0c0fa21fa9c551cfcefa7bf",
-    "size": 15658496
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Digitalmixer-0.11.0.exe",
+    "sha256": "26b3e704dd1dbbf0b5cbd3c8a3e187be28d9117288129986e2eb2739fa445ccd",
+    "size": 15782912
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.12.0.zip",
-    "sha256": "2de772278972263ce84a0c962d8fa55250cdf91eeafbf515d1c54187b7fa68fd",
-    "size": 23915407
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.13.0.zip",
+    "sha256": "cda345209ad8bc98ae47cf5f71a82a761b5d98f21ac6259962986d763f52dbf1",
+    "size": 24408504
   }
 }

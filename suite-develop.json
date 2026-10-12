@@ -1,19 +1,22 @@
 {
-  "version": "0.12.0",
-  "published": "2026-10-11T17:37:54Z",
+  "version": "0.13.0",
+  "published": "2026-10-12T03:43:27Z",
   "notes": [
-    "Licht: Dimmerpacks (z. B. Botex MPX-405) mit Lampen je Kanal und echter 3D-Darstellung; Moving Heads ruckeln nicht mehr bei offener 3D-Ansicht",
-    "Timecode: Hilfe, wenn die CDJs nicht gefunden werden; Firewall-Datei entfernt auch Windows-Sperren – bitte einmal als Administrator ausführen",
-    "Wichtig: Licht-Shows Format 12 – bitte alle PCs aktualisieren"
+    "Firewall wird beim Start automatisch geprüft und freigegeben (Windows fragt einmal nach Administrator-Rechten)",
+    "Neue Programm-Icons für alle vier Programme",
+    "Licht: Bühne mit Rückgängig, Lampen/Köpfe ausrichten, Farbe je LED-Segment, Automatik im Takt, NET-4 je Ausgang ein Universum",
+    "Timecode: Netzwerk-Check zeigt, warum CDJs nicht ankommen; teilt Anschlüsse mit rekordbox/AnyDesk",
+    "Digitalmixer: Rückkopplung sofort weg mit Notbremse; Pegelbegrenzung bis 100 dB",
+    "Wichtig: Licht-Shows Format 13 und Bühne Version 3 – bitte alle PCs aktualisieren"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-0.12.0.exe",
-    "sha256": "5356f7d84fe0d72450902bcd1e25c08b2ce27c186a700477712741f71ea52b7b",
-    "size": 11136000
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-0.13.0.exe",
+    "sha256": "665c4f0565737c7fbbc0da4b87086eeced838c6d7fdc09dca4fa8a22196629d5",
+    "size": 11289088
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.12.0.zip",
-    "sha256": "2de772278972263ce84a0c962d8fa55250cdf91eeafbf515d1c54187b7fa68fd",
-    "size": 23915407
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.13.0.zip",
+    "sha256": "cda345209ad8bc98ae47cf5f71a82a761b5d98f21ac6259962986d763f52dbf1",
+    "size": 24408504
   }
 }
