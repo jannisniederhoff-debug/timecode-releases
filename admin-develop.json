@@ -1,17 +1,17 @@
 {
   "version": "0.14.0",
-  "published": "2026-10-13T17:09:27Z",
+  "published": "2026-10-13T18:02:37Z",
   "notes": [
-    "Unverändert – neues Gesamtpaket (Digitalmixer: Neutrik-Box)"
+    "Unverändert – neues Gesamtpaket (Digitalmixer: Meldung beim Box-Umschalten)"
   ],
   "windows": {
     "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-Admin-0.14.0.exe",
-    "sha256": "a354366316ce0a4cfd264e9a29ee1363b5b535b1b59dcf27a3ad574bb6741b9c",
+    "sha256": "b98c655be13c5143f38c750802c7d21543e97eb451f45e3ca1853342532cd68e",
     "size": 12448768
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Admin-Windows-0.15.2.zip",
-    "sha256": "725a4e911f32f5dd2334091596fcd6049409d314759fee3ded46019d4cef6b6e",
-    "size": 25194099
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Admin-Windows-0.15.3.zip",
+    "sha256": "e06dcec9c40c4c781c0a9270e2141b8df83fdc915ec43d11d969a701f0a6b34c",
+    "size": 25194421
   }
 }

@@ -1,20 +1,18 @@
 {
-  "version": "0.14.2",
-  "published": "2026-10-13T17:09:04Z",
+  "version": "0.14.3",
+  "published": "2026-10-13T18:02:13Z",
   "notes": [
-    "„Auf Digitalmixer schalten“ entfernt zuerst ein altes Abo der Box (z. B. vom Dante Controller oder von einer früheren Laptop-Adresse) und schaltet dann neu – vorher behielt die Box das alte und spielte nichts",
-    "Verbindungs-Check zeigt nicht mehr fälschlich „Bereit“, wenn die Box noch ein altes Abo hat",
-    "Box ohne Adresse vom Router (169.254…): klare Erklärung und Knopf „Laptop ins Box-Netz holen“ (einmal Windows-Erlaubnis, Internet/WLAN bleiben; rückgängig per Knopf)",
-    "Laptop-Ton senden: keine Fehlermeldung „WASAPI 0x80004001“ mehr, wenn gerade nichts läuft"
+    "Box-Umschalten an einer echten Neutrik NA2-IO-DLINE ohne Dante Controller bestätigt",
+    "Die Erfolgsmeldung zeigt jetzt klar, welcher Ausgang welchen Kanal spielt (statt widersprüchlich „nicht geschaltet“)"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Digitalmixer-0.14.2.exe",
-    "sha256": "102aaa148a7f1b8c847752192ebd02964a9a0b819bad81d9ff64dd745ba75455",
-    "size": 16974848
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Digitalmixer-0.14.3.exe",
+    "sha256": "f5a3e12031dae09f85159bbb57a30be1ad367aeb7156d558904eb69d7c14d15d",
+    "size": 16976384
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.15.2.zip",
-    "sha256": "ed50c95eec78333bf8d60e3aa5cb47a3147fa568ca99b884f257e71797a3a5df",
-    "size": 25155000
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.15.3.zip",
+    "sha256": "a40933bc913408b01a8e475c313d53b3af7decd2eb76a75caaf8e523ae7b4e77",
+    "size": 25155322
   }
 }

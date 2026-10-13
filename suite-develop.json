@@ -1,17 +1,17 @@
 {
-  "version": "0.15.2",
-  "published": "2026-10-13T17:09:31Z",
+  "version": "0.15.3",
+  "published": "2026-10-13T18:02:42Z",
   "notes": [
-    "Digitalmixer 0.14.2: Neutrik-Box – altes Abo wird ersetzt, ehrlicher Verbindungs-Check, Laptop ins Box-Netz holen"
+    "Digitalmixer 0.14.3: klare Erfolgsmeldung beim Umschalten der Neutrik-Box"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-0.15.2.exe",
-    "sha256": "e50af6927124ddd25c3e855c86cb657709b5a6f863a1971789f78e5bb069e775",
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-0.15.3.exe",
+    "sha256": "e7c0c8222ae93da8050c97eccbc819488b0f1bc62152fa8d487fc5c1bb25b402",
     "size": 11559936
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.15.2.zip",
-    "sha256": "ed50c95eec78333bf8d60e3aa5cb47a3147fa568ca99b884f257e71797a3a5df",
-    "size": 25155000
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.15.3.zip",
+    "sha256": "a40933bc913408b01a8e475c313d53b3af7decd2eb76a75caaf8e523ae7b4e77",
+    "size": 25155322
   }
 }
