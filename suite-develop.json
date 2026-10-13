@@ -1,17 +1,17 @@
 {
-  "version": "0.15.0",
-  "published": "2026-10-12T22:43:32Z",
+  "version": "0.15.1",
+  "published": "2026-10-13T03:30:11Z",
   "notes": [
-    "Digitalmixer 0.14.0: Geräte-Seite neu, Lautsprecher wach halten, Ton von anderen Laptops im Netz, Raumplan-Boxen räumen sich auf, kompaktere Zonen-Seite"
+    "Digitalmixer 0.14.1: Verwaiste Boxen im Raumplan aufräumen (mit Bestätigung und Rückgängig)"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-0.15.0.exe",
-    "sha256": "af8941fb2e15f4169bc9a98382e9a2947c12aa57c0cd1950898eef654d511718",
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-0.15.1.exe",
+    "sha256": "396df33a95db0b27a4d95b52e144522fb1b4d26d2adb43d3c12a56967c144862",
     "size": 11558400
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.15.0.zip",
-    "sha256": "2e174909585b2d717dfa188c5f137cfd251bbe3a0300da2ccc6197bb7991fac2",
-    "size": 25086654
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.15.1.zip",
+    "sha256": "5ac9bb703f3847f15571606518dc42debdbd129397e137af50c7618595723861",
+    "size": 25101481
   }
 }

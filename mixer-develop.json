@@ -1,22 +1,17 @@
 {
-  "version": "0.14.0",
-  "published": "2026-10-12T22:43:01Z",
+  "version": "0.14.1",
+  "published": "2026-10-13T03:29:43Z",
   "notes": [
-    "Geräte-Seite aufgeräumt: oben „Meine Ausgänge“ – je Gerät eine Karte mit Ampel, Live-Pegel, Blinken und „Auf Digitalmixer schalten“; Seltenes unter „Mehr …“, Technik eingeklappt unter „Für Profis / Fehlersuche“",
-    "Neu: „Lautsprecher wach halten“ je Lautsprecher (ab Werk aus) – unhörbar leises Signal in langen Pausen gegen Auto-Standby von Aktivboxen, immer unter Pegelbegrenzung und bei „Alles stumm“ stumm",
-    "Neu: „Diesen Laptop ins Netz senden“ – Ton eines zweiten Laptops (Systemton oder Mikro) erscheint auf dem Mixer-Laptop als „Laptop <Name>“ und wird mit einem Klick zum Kanal",
-    "Raumplan: automatisch angelegte Boxen verschwinden mit ihrem Lautsprecher; von Hand gesetzte oder verschobene Boxen bleiben immer (Mixer-Datei v12)",
-    "„Zonen & Lautsprecher“ deutlich kompakter; der verwirrende allgemeine Stream „Netzwerk 1/2“ erscheint nur noch, wenn er benutzt wird",
-    "Box antwortet nicht: klarer Hinweis „Box 10 Sekunden stromlos machen“ statt „Firewall prüfen“ (Firewall nur, wenn die Prüfung wirklich ein Problem zeigt)"
+    "Raumplan: Knopf „Verwaiste Boxen aufräumen …“ (im Kabelplan unter „Nicht angeschlossen“) – für alte Projekte mit übrig gebliebenen Boxen; Liste zum Abhaken, nur sicher automatische sind vorausgewählt, nichts ohne Bestätigung, mit Rückgängig"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Digitalmixer-0.14.0.exe",
-    "sha256": "6b004a9e90a254f5136ec02a93cc41d5587cf25df4ffac175f4e5aea99ddca2c",
-    "size": 16807936
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Digitalmixer-0.14.1.exe",
+    "sha256": "4f8e056d9cddcd31c916c5928f15fb873e3ebb51d24fe8e16ccf660177b6de08",
+    "size": 16847360
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.15.0.zip",
-    "sha256": "2e174909585b2d717dfa188c5f137cfd251bbe3a0300da2ccc6197bb7991fac2",
-    "size": 25086654
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.15.1.zip",
+    "sha256": "5ac9bb703f3847f15571606518dc42debdbd129397e137af50c7618595723861",
+    "size": 25101481
   }
 }

@@ -1,17 +1,17 @@
 {
   "version": "0.14.0",
-  "published": "2026-10-12T22:43:27Z",
+  "published": "2026-10-13T03:30:06Z",
   "notes": [
-    "Unverändert – neues Gesamtpaket (Digitalmixer 0.14.0: Geräte-Seite neu, Lautsprecher wach halten, Laptop-Ton im Netz)"
+    "Unverändert – neues Gesamtpaket (Digitalmixer: Verwaiste Boxen aufräumen)"
   ],
   "windows": {
     "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-Admin-0.14.0.exe",
-    "sha256": "3ed59b782c28abb03295a0c2b8594760e98e8678ca8808902e38dc50b143dcbc",
+    "sha256": "9f104b0685d797b6fcd6ea536cf9260a599feae149d265c610c6c6d430f88753",
     "size": 12441088
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Admin-Windows-0.15.0.zip",
-    "sha256": "8ffd83bdbf58efa24fbd9c97516512787475efc67f59826b727c7ac89b5e8a04",
-    "size": 25125516
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Admin-Windows-0.15.1.zip",
+    "sha256": "69a17a1a03c118d0dc7fc0c7de2a02d3a2dc6398b2189959fbe9151d7064e266",
+    "size": 25140337
   }
 }
