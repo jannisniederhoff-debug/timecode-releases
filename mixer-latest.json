@@ -1,18 +1,12 @@
 {
-  "version": "0.14.3",
-  "published": "2026-10-13T18:02:13Z",
+  "version": "0.14.4",
+  "published": "2026-10-13T20:37:22Z",
   "notes": [
-    "Box-Umschalten an einer echten Neutrik NA2-IO-DLINE ohne Dante Controller bestätigt",
-    "Die Erfolgsmeldung zeigt jetzt klar, welcher Ausgang welchen Kanal spielt (statt widersprüchlich „nicht geschaltet“)"
+    "Box-Stream bekommt wieder Ton: Nachdem die Netzwerkkarte eine neue Adresse bekommen hatte (z. B. 169.254… ohne Router), sendete der Stream zur Dante-Box nur Stille. Jetzt verbindet sich das Mischpult nach etwa einer Sekunde von selbst wieder."
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Digitalmixer-0.14.3.exe",
-    "sha256": "f5a3e12031dae09f85159bbb57a30be1ad367aeb7156d558904eb69d7c14d15d",
-    "size": 16976384
-  },
-  "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.15.3.zip",
-    "sha256": "a40933bc913408b01a8e475c313d53b3af7decd2eb76a75caaf8e523ae7b4e77",
-    "size": 25155322
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Digitalmixer-0.14.4.exe",
+    "sha256": "1aeabde8538b9f2e25b3cad2e6fa6c36de8b95ef849e0fb9e68a5a33f2ed2b5f",
+    "size": 16977408
   }
 }

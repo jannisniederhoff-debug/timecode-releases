@@ -1,17 +1,17 @@
 {
   "version": "0.14.0",
-  "published": "2026-10-13T18:02:32Z",
+  "published": "2026-10-13T20:37:40Z",
   "notes": [
-    "Unverändert – neues Gesamtpaket (Digitalmixer: Meldung beim Box-Umschalten)"
+    "Box-Stream bekommt wieder Ton: Nachdem die Netzwerkkarte eine neue Adresse bekommen hatte (z. B. 169.254… ohne Router), sendete der Stream zur Dante-Box nur Stille. Jetzt verbindet sich das Mischpult nach etwa einer Sekunde von selbst wieder."
   ],
   "windows": {
     "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-0.14.0.exe",
-    "sha256": "b77655bebb32fcc8ddbd07c36d7db909b82cfe573e22517abf7ab0944fdd546e",
+    "sha256": "323c889c5d3cc844fb4376d417d94c6dc89f1e13a5b9395cda9fc66043966960",
     "size": 12344832
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.15.3.zip",
-    "sha256": "a40933bc913408b01a8e475c313d53b3af7decd2eb76a75caaf8e523ae7b4e77",
-    "size": 25155322
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.15.4.zip",
+    "sha256": "7a76a734c3bf96d2f6e33021d278b63d82ea7a50cc6dc6c4b0413baa8073617f",
+    "size": 25155673
   }
 }
