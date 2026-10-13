@@ -1,17 +1,20 @@
 {
-  "version": "0.14.1",
-  "published": "2026-10-13T03:29:43Z",
+  "version": "0.14.2",
+  "published": "2026-10-13T17:09:04Z",
   "notes": [
-    "Raumplan: Knopf „Verwaiste Boxen aufräumen …“ (im Kabelplan unter „Nicht angeschlossen“) – für alte Projekte mit übrig gebliebenen Boxen; Liste zum Abhaken, nur sicher automatische sind vorausgewählt, nichts ohne Bestätigung, mit Rückgängig"
+    "„Auf Digitalmixer schalten“ entfernt zuerst ein altes Abo der Box (z. B. vom Dante Controller oder von einer früheren Laptop-Adresse) und schaltet dann neu – vorher behielt die Box das alte und spielte nichts",
+    "Verbindungs-Check zeigt nicht mehr fälschlich „Bereit“, wenn die Box noch ein altes Abo hat",
+    "Box ohne Adresse vom Router (169.254…): klare Erklärung und Knopf „Laptop ins Box-Netz holen“ (einmal Windows-Erlaubnis, Internet/WLAN bleiben; rückgängig per Knopf)",
+    "Laptop-Ton senden: keine Fehlermeldung „WASAPI 0x80004001“ mehr, wenn gerade nichts läuft"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Digitalmixer-0.14.1.exe",
-    "sha256": "4f8e056d9cddcd31c916c5928f15fb873e3ebb51d24fe8e16ccf660177b6de08",
-    "size": 16847360
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Digitalmixer-0.14.2.exe",
+    "sha256": "102aaa148a7f1b8c847752192ebd02964a9a0b819bad81d9ff64dd745ba75455",
+    "size": 16974848
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.15.1.zip",
-    "sha256": "5ac9bb703f3847f15571606518dc42debdbd129397e137af50c7618595723861",
-    "size": 25101481
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.15.2.zip",
+    "sha256": "ed50c95eec78333bf8d60e3aa5cb47a3147fa568ca99b884f257e71797a3a5df",
+    "size": 25155000
   }
 }

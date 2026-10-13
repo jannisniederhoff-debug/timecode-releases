@@ -1,17 +1,17 @@
 {
-  "version": "0.15.1",
-  "published": "2026-10-13T03:30:11Z",
+  "version": "0.15.2",
+  "published": "2026-10-13T17:09:31Z",
   "notes": [
-    "Digitalmixer 0.14.1: Verwaiste Boxen im Raumplan aufräumen (mit Bestätigung und Rückgängig)"
+    "Digitalmixer 0.14.2: Neutrik-Box – altes Abo wird ersetzt, ehrlicher Verbindungs-Check, Laptop ins Box-Netz holen"
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-0.15.1.exe",
-    "sha256": "396df33a95db0b27a4d95b52e144522fb1b4d26d2adb43d3c12a56967c144862",
-    "size": 11558400
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-0.15.2.exe",
+    "sha256": "e50af6927124ddd25c3e855c86cb657709b5a6f863a1971789f78e5bb069e775",
+    "size": 11559936
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.15.1.zip",
-    "sha256": "5ac9bb703f3847f15571606518dc42debdbd129397e137af50c7618595723861",
-    "size": 25101481
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.15.2.zip",
+    "sha256": "ed50c95eec78333bf8d60e3aa5cb47a3147fa568ca99b884f257e71797a3a5df",
+    "size": 25155000
   }
 }
