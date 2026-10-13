@@ -1,17 +1,19 @@
 {
-  "version": "0.14.0",
-  "published": "2026-10-13T20:37:43Z",
+  "version": "0.14.1",
+  "published": "2026-10-13T22:58:24Z",
   "notes": [
-    "Box-Stream bekommt wieder Ton: Nachdem die Netzwerkkarte eine neue Adresse bekommen hatte (z. B. 169.254… ohne Router), sendete der Stream zur Dante-Box nur Stille. Jetzt verbindet sich das Mischpult nach etwa einer Sekunde von selbst wieder."
+    "Dante-Box: Ablauf ab Werkseinstellung klarer – „Auf Digitalmixer schalten“ erst, wenn AES67 an ist; ein Box-Neustart wird als solcher angezeigt; ehrliche Meldung „verbunden (AES67-Stream)“.",
+    "Router/Switch: Der Verbindungs-Check erkennt, wenn der Switch Multicast filtert (IGMP-Snooping), und sagt, wie man es behebt.",
+    "Handy: Die Seite springt nicht mehr nach oben (Sperren/Entsperren, Neuladen); Mischpult am Handy als kompakte Zeilen; „0 Zonen“-Anzeige behoben."
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-Admin-0.14.0.exe",
-    "sha256": "199d9692bbeb2e86030048134f6d6da1c002837a598aedcc256fbf14de154ca8",
-    "size": 12448768
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-Admin-0.14.1.exe",
+    "sha256": "a768b8279c3ed9f1aaa81a1132e3c7b5050d4f903c7ffdfdb059d2e3aac84330",
+    "size": 12454912
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Admin-Windows-0.15.4.zip",
-    "sha256": "553cf474774e6c8d5da8aff94b344b61383bb28df0a3d7f969cfcd12aaf868e8",
-    "size": 25194775
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Admin-Windows-0.15.5.zip",
+    "sha256": "05d54c05717b7c773aeb8bf92e179c0d08e3c19dfaa54110dd6df3cc888e77fd",
+    "size": 25228167
   }
 }

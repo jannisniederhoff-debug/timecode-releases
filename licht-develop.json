@@ -1,12 +1,14 @@
 {
-  "version": "0.16.0",
-  "published": "2026-10-13T20:37:36Z",
+  "version": "0.16.1",
+  "published": "2026-10-13T22:58:17Z",
   "notes": [
-    "Box-Stream bekommt wieder Ton: Nachdem die Netzwerkkarte eine neue Adresse bekommen hatte (z. B. 169.254… ohne Router), sendete der Stream zur Dante-Box nur Stille. Jetzt verbindet sich das Mischpult nach etwa einer Sekunde von selbst wieder."
+    "Dante-Box: Ablauf ab Werkseinstellung klarer – „Auf Digitalmixer schalten“ erst, wenn AES67 an ist; ein Box-Neustart wird als solcher angezeigt; ehrliche Meldung „verbunden (AES67-Stream)“.",
+    "Router/Switch: Der Verbindungs-Check erkennt, wenn der Switch Multicast filtert (IGMP-Snooping), und sagt, wie man es behebt.",
+    "Handy: Die Seite springt nicht mehr nach oben (Sperren/Entsperren, Neuladen); Mischpult am Handy als kompakte Zeilen; „0 Zonen“-Anzeige behoben."
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Licht-0.16.0.exe",
-    "sha256": "67ff07e650cab76341c56337367bb9b1ac482d21182cb40fbb9ccc252eded482",
-    "size": 20305408
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Licht-0.16.1.exe",
+    "sha256": "78a4084bdc49c36ae93391d1f90bacb1441337a9f73db649f689789a14278f90",
+    "size": 20311552
   }
 }
