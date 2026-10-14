@@ -1,12 +1,12 @@
 {
   "version": "0.16.1",
-  "published": "2026-10-14T15:21:24Z",
+  "published": "2026-10-14T18:13:55Z",
   "notes": [
-    "Handy: Im Mischpult stehen die Zonen jetzt oben; im Raumplan startet die Liste (Kabelplan, Hinweise, Auswahl) eingeklappt."
+    "Dante-Box: Der Digitalmixer misst jetzt, ob Windows die Ton-Pakete zu spät losschickt (Ursache für Knacksen/Aussetzer), und zeigt im Verbindungs-Check, was dagegen hilft."
   ],
   "windows": {
     "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Licht-0.16.1.exe",
-    "sha256": "dda92f0345c0766402e0c4c9c10c233e7d6d166a3be6bed12d304d61fe338015",
+    "sha256": "959580769e240930c215ae1249c5fa9507891532bee16eeee866401c255d4044",
     "size": 20311552
   }
 }

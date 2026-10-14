@@ -1,12 +1,12 @@
 {
-  "version": "0.14.6",
-  "published": "2026-10-14T15:21:07Z",
+  "version": "0.14.7",
+  "published": "2026-10-14T18:13:40Z",
   "notes": [
-    "Handy: Im Mischpult stehen die Zonen jetzt oben; im Raumplan startet die Liste (Kabelplan, Hinweise, Auswahl) eingeklappt."
+    "Dante-Box: Der Digitalmixer misst jetzt, ob Windows die Ton-Pakete zu spät losschickt (Ursache für Knacksen/Aussetzer), und zeigt im Verbindungs-Check, was dagegen hilft."
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Digitalmixer-0.14.6.exe",
-    "sha256": "189292a3ac08429dcda3ed1335f717fef743184b49c2c7e2ab345443aa39ab73",
-    "size": 17053184
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Digitalmixer-0.14.7.exe",
+    "sha256": "15c7a06e00ecfe7a6503d1ddd660978bd8457fe27382b9519202bfdb0ee532ec",
+    "size": 17058304
   }
 }

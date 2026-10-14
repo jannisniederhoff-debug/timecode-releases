@@ -1,17 +1,17 @@
 {
   "version": "0.14.1",
-  "published": "2026-10-14T15:21:33Z",
+  "published": "2026-10-14T18:14:03Z",
   "notes": [
-    "Handy: Im Mischpult stehen die Zonen jetzt oben; im Raumplan startet die Liste (Kabelplan, Hinweise, Auswahl) eingeklappt."
+    "Dante-Box: Der Digitalmixer misst jetzt, ob Windows die Ton-Pakete zu spät losschickt (Ursache für Knacksen/Aussetzer), und zeigt im Verbindungs-Check, was dagegen hilft."
   ],
   "windows": {
     "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-Admin-0.14.1.exe",
-    "sha256": "351c160041e6839d24baa5586f7c22ad9bbba1241224fb3f0e3bce80e2ad5922",
+    "sha256": "d23c89b877efb35cef07514536483f14b8e03ee548306355d2aec60f02d624ea",
     "size": 12454912
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Admin-Windows-0.15.6.zip",
-    "sha256": "a5476b6518e980c58d1fc60466a5dd6abffe03da30b27d4d6161d64b4b93f1f5",
-    "size": 25228413
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Admin-Windows-0.15.7.zip",
+    "sha256": "2e07e05871f169cfe3f78d368579676b6fe8f668140a645b3f7252389cc1cccf",
+    "size": 25228864
   }
 }
