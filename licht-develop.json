@@ -1,14 +1,12 @@
 {
   "version": "0.16.1",
-  "published": "2026-10-13T22:58:17Z",
+  "published": "2026-10-14T15:21:24Z",
   "notes": [
-    "Dante-Box: Ablauf ab Werkseinstellung klarer – „Auf Digitalmixer schalten“ erst, wenn AES67 an ist; ein Box-Neustart wird als solcher angezeigt; ehrliche Meldung „verbunden (AES67-Stream)“.",
-    "Router/Switch: Der Verbindungs-Check erkennt, wenn der Switch Multicast filtert (IGMP-Snooping), und sagt, wie man es behebt.",
-    "Handy: Die Seite springt nicht mehr nach oben (Sperren/Entsperren, Neuladen); Mischpult am Handy als kompakte Zeilen; „0 Zonen“-Anzeige behoben."
+    "Handy: Im Mischpult stehen die Zonen jetzt oben; im Raumplan startet die Liste (Kabelplan, Hinweise, Auswahl) eingeklappt."
   ],
   "windows": {
     "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Licht-0.16.1.exe",
-    "sha256": "78a4084bdc49c36ae93391d1f90bacb1441337a9f73db649f689789a14278f90",
+    "sha256": "dda92f0345c0766402e0c4c9c10c233e7d6d166a3be6bed12d304d61fe338015",
     "size": 20311552
   }
 }

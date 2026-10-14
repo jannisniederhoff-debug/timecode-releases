@@ -1,19 +1,17 @@
 {
   "version": "0.14.1",
-  "published": "2026-10-13T22:58:24Z",
+  "published": "2026-10-14T15:21:33Z",
   "notes": [
-    "Dante-Box: Ablauf ab Werkseinstellung klarer – „Auf Digitalmixer schalten“ erst, wenn AES67 an ist; ein Box-Neustart wird als solcher angezeigt; ehrliche Meldung „verbunden (AES67-Stream)“.",
-    "Router/Switch: Der Verbindungs-Check erkennt, wenn der Switch Multicast filtert (IGMP-Snooping), und sagt, wie man es behebt.",
-    "Handy: Die Seite springt nicht mehr nach oben (Sperren/Entsperren, Neuladen); Mischpult am Handy als kompakte Zeilen; „0 Zonen“-Anzeige behoben."
+    "Handy: Im Mischpult stehen die Zonen jetzt oben; im Raumplan startet die Liste (Kabelplan, Hinweise, Auswahl) eingeklappt."
   ],
   "windows": {
     "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-Admin-0.14.1.exe",
-    "sha256": "a768b8279c3ed9f1aaa81a1132e3c7b5050d4f903c7ffdfdb059d2e3aac84330",
+    "sha256": "351c160041e6839d24baa5586f7c22ad9bbba1241224fb3f0e3bce80e2ad5922",
     "size": 12454912
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Admin-Windows-0.15.5.zip",
-    "sha256": "05d54c05717b7c773aeb8bf92e179c0d08e3c19dfaa54110dd6df3cc888e77fd",
-    "size": 25228167
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Admin-Windows-0.15.6.zip",
+    "sha256": "a5476b6518e980c58d1fc60466a5dd6abffe03da30b27d4d6161d64b4b93f1f5",
+    "size": 25228413
   }
 }
