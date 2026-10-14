@@ -1,12 +1,13 @@
 {
   "version": "0.16.1",
-  "published": "2026-10-14T18:13:55Z",
+  "published": "2026-10-14T22:38:34Z",
   "notes": [
-    "Dante-Box: Der Digitalmixer misst jetzt, ob Windows die Ton-Pakete zu spät losschickt (Ursache für Knacksen/Aussetzer), und zeigt im Verbindungs-Check, was dagegen hilft."
+    "Neu: eigene Netzwerk-Audio-Box „Event-Suite-Box“ (Raspberry Pi, Prototyp) – der Digitalmixer findet sie von selbst, verbindet sich, nimmt ihre Eingänge und rechnet ihr den Notbetrieb aus (fällt der Laptop aus, spielt die Box ihre Eingänge selbst).",
+    "Anleitung, Einkaufsliste und Bauplan: docs/EVENT-SUITE-BOX.md."
   ],
   "windows": {
     "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Licht-0.16.1.exe",
-    "sha256": "959580769e240930c215ae1249c5fa9507891532bee16eeee866401c255d4044",
+    "sha256": "30c8fdfa2a72247c1460dfd781c1651ba6082ed3fbb9a4c03b155ecc944be290",
     "size": 20311552
   }
 }

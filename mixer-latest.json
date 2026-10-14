@@ -1,12 +1,13 @@
 {
-  "version": "0.14.7",
-  "published": "2026-10-14T18:13:40Z",
+  "version": "0.15.0",
+  "published": "2026-10-14T22:38:22Z",
   "notes": [
-    "Dante-Box: Der Digitalmixer misst jetzt, ob Windows die Ton-Pakete zu spät losschickt (Ursache für Knacksen/Aussetzer), und zeigt im Verbindungs-Check, was dagegen hilft."
+    "Neu: eigene Netzwerk-Audio-Box „Event-Suite-Box“ (Raspberry Pi, Prototyp) – der Digitalmixer findet sie von selbst, verbindet sich, nimmt ihre Eingänge und rechnet ihr den Notbetrieb aus (fällt der Laptop aus, spielt die Box ihre Eingänge selbst).",
+    "Anleitung, Einkaufsliste und Bauplan: docs/EVENT-SUITE-BOX.md."
   ],
   "windows": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Digitalmixer-0.14.7.exe",
-    "sha256": "15c7a06e00ecfe7a6503d1ddd660978bd8457fe27382b9519202bfdb0ee532ec",
-    "size": 17058304
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Digitalmixer-0.15.0.exe",
+    "sha256": "fb51712cf3ff39e6dc7f2e033ebb991e624c3f37d23d542fc56f3faadcd4e615",
+    "size": 17305600
   }
 }

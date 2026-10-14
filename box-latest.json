@@ -1,0 +1,12 @@
+{
+  "version": "0.1.0",
+  "published": "2026-10-14T22:38:48Z",
+  "notes": [
+    "Erste Version der Event-Suite-Box (Prototyp): spielt den Digitalmixer ohne Dante, 20 ms Puffer, Eingänge als Stream, Notbetrieb, Status-Seite auf Port 8095."
+  ],
+  "linux-arm64": {
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Box-0.1.0-linux-arm64",
+    "sha256": "50470e0fdf26e05aa96f0071fba5e99831d4ae1f8f9c5c285fd50b4ccee55cf3",
+    "size": 7667896
+  }
+}

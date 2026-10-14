@@ -1,17 +1,18 @@
 {
   "version": "0.14.1",
-  "published": "2026-10-14T18:13:59Z",
+  "published": "2026-10-14T22:38:37Z",
   "notes": [
-    "Dante-Box: Der Digitalmixer misst jetzt, ob Windows die Ton-Pakete zu spät losschickt (Ursache für Knacksen/Aussetzer), und zeigt im Verbindungs-Check, was dagegen hilft."
+    "Neu: eigene Netzwerk-Audio-Box „Event-Suite-Box“ (Raspberry Pi, Prototyp) – der Digitalmixer findet sie von selbst, verbindet sich, nimmt ihre Eingänge und rechnet ihr den Notbetrieb aus (fällt der Laptop aus, spielt die Box ihre Eingänge selbst).",
+    "Anleitung, Einkaufsliste und Bauplan: docs/EVENT-SUITE-BOX.md."
   ],
   "windows": {
     "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-0.14.1.exe",
-    "sha256": "4ba6ba00e5c68a16e7402958b51648a2ca30263026f4d2853a5081b82e098765",
+    "sha256": "2077cb7940081e77c76dd5f7dc518d488bd2739bf3576619a10ef822f8c2c588",
     "size": 12350976
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.15.7.zip",
-    "sha256": "8dc5552f1c8c83cfb5d68fe1c35318ccbed79434b60d5f091b1b88dd0e14e961",
-    "size": 25190773
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Windows-0.16.0.zip",
+    "sha256": "c9d0f875fee1331ee5c058d0ef1d3ecfed57d0a6bc9364ba2a0288510bcf75e2",
+    "size": 25283996
   }
 }
