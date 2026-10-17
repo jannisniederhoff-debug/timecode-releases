@@ -1,18 +1,18 @@
 {
   "version": "0.14.1",
-  "published": "2026-10-14T22:38:41Z",
+  "published": "2026-10-17T12:25:23Z",
   "notes": [
-    "Neu: eigene Netzwerk-Audio-Box „Event-Suite-Box“ (Raspberry Pi, Prototyp) – der Digitalmixer findet sie von selbst, verbindet sich, nimmt ihre Eingänge und rechnet ihr den Notbetrieb aus (fällt der Laptop aus, spielt die Box ihre Eingänge selbst).",
-    "Anleitung, Einkaufsliste und Bauplan: docs/EVENT-SUITE-BOX.md."
+    "Dante-Box: Der Digitalmixer misst jetzt die „Reserve gegen Knacksen“ und stellt die Latenz der Box automatisch so kurz wie möglich ein – höher, bevor es knackst, kürzer nur in Musikpausen.",
+    "Windows: genauerer Sende-Takt für Netzwerk-Audio."
   ],
   "windows": {
     "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/Timecode-Admin-0.14.1.exe",
-    "sha256": "a60c82527b1d5d1417a1e8aad4c3468d51b2c64709a2deebfa296e1e80bbdfee",
+    "sha256": "bece931c043dcdeb2f04599ad414f2311c216b0755423ee4a28a3a963bba44be",
     "size": 12454912
   },
   "package": {
-    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Admin-Windows-0.16.0.zip",
-    "sha256": "7672a12bdeb9226184d3a6e9f7e7366d438dfb1037efc75a051c37f715b29be3",
-    "size": 25322090
+    "url": "https://raw.githubusercontent.com/jannisniederhoff-debug/timecode-releases/main/EventSuite-Admin-Windows-0.16.1.zip",
+    "sha256": "e5fb9f911f64bbafc3d98c958b43bb3aeda20cd0ced35a467d7b083d446a8847",
+    "size": 25366388
   }
 }
